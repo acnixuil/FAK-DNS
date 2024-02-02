@@ -25,10 +25,21 @@ jobs:
       env:
         CN_DNS: ${{ secrets.CN_DNS }}
         THE_DNS: ${{ secrets.THE_DNS }}
-      run: python convert.py
+      run: |
+        python convert.py
+        echo "DATE=$(date +"%Y-%m-%d %H:%M:%S")" >> $GITHUB_ENV
 
     - name: Create Artifacts
       uses: actions/upload-artifact@v2
       with:
         name: converted-files
         path: converted
+        
+    - name: Upload Firmware To Release
+      uses: ncipollo/release-action@v1
+      with:
+        name: R${{ env.DATE }}
+        allowUpdates: true
+        tag: dns
+        token: ${{ secrets.GITHUB_TOKEN }}
+        artifacts: converted/*
