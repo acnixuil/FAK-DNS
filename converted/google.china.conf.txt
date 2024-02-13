@@ -1,159 +1,159 @@
-[/265.com/]https://doh.apad.pro/cdn-query
-[/2mdn-cn.net/]https://doh.apad.pro/cdn-query
-[/2mdn.net/]https://doh.apad.pro/cdn-query
-[/accounts.googlers.com/]https://doh.apad.pro/cdn-query
-[/accounts.xn--9trs65b.com/]https://doh.apad.pro/cdn-query
-[/accounts.xn--ggle-55da.com/]https://doh.apad.pro/cdn-query
-[/admob-cn.com/]https://doh.apad.pro/cdn-query
-[/adservice.google.com/]https://doh.apad.pro/cdn-query
-[/ai.ytimg.com/]https://doh.apad.pro/cdn-query
-[/app-measurement-cn.com/]https://doh.apad.pro/cdn-query
-[/app-measurement.com/]https://doh.apad.pro/cdn-query
-[/apps5.oingo.com/]https://doh.apad.pro/cdn-query
-[/avail.googleflights.net/]https://doh.apad.pro/cdn-query
-[/beacons.gcp.gvt2.com/]https://doh.apad.pro/cdn-query
-[/beacons.gvt2.com/]https://doh.apad.pro/cdn-query
-[/beacons2.gvt2.com/]https://doh.apad.pro/cdn-query
-[/beacons3.gvt2.com/]https://doh.apad.pro/cdn-query
-[/borgmon.adz.google.com/]https://doh.apad.pro/cdn-query
-[/c.admob.com/]https://doh.apad.pro/cdn-query
-[/c.android.clients.google.com/]https://doh.apad.pro/cdn-query
-[/cache-management-prod.google.com/]https://doh.apad.pro/cdn-query
-[/cache.pack.google.com/]https://doh.apad.pro/cdn-query
-[/checkin.gstatic.com/]https://doh.apad.pro/cdn-query
-[/clickserve.cc-dt.com/]https://doh.apad.pro/cdn-query
-[/clickserve.dartsearch.net/]https://doh.apad.pro/cdn-query
-[/clickserver.googleads.com/]https://doh.apad.pro/cdn-query
-[/clientservices.googleapis.com/]https://doh.apad.pro/cdn-query
-[/cn.widevine.com/]https://doh.apad.pro/cdn-query
-[/cnappinstall.googleadapis.com/]https://doh.apad.pro/cdn-query
-[/connectivitycheck.gstatic.com/]https://doh.apad.pro/cdn-query
-[/content.googleadapis.com/]https://doh.apad.pro/cdn-query
-[/corp.google.com/]https://doh.apad.pro/cdn-query
-[/corp.googleapis.com/]https://doh.apad.pro/cdn-query
-[/crashlyticsreports-pa.googleapis.com/]https://doh.apad.pro/cdn-query
-[/crl.pki.goog/]https://doh.apad.pro/cdn-query
-[/csi.gstatic.com/]https://doh.apad.pro/cdn-query
-[/dartsearch-cn.net/]https://doh.apad.pro/cdn-query
-[/dg-meta.video.google.com/]https://doh.apad.pro/cdn-query
-[/distribution.qatp1.net/]https://doh.apad.pro/cdn-query
-[/distribution.qcpp1.net/]https://doh.apad.pro/cdn-query
-[/distribution.qpdp1.net/]https://doh.apad.pro/cdn-query
-[/dl.google.com/]https://doh.apad.pro/cdn-query
-[/dl.l.google.com/]https://doh.apad.pro/cdn-query
-[/doubleclick-cn.net/]https://doh.apad.pro/cdn-query
-[/doubleclick.net/]https://doh.apad.pro/cdn-query
-[/download.mlcc.google.com/]https://doh.apad.pro/cdn-query
-[/download.qatp1.net/]https://doh.apad.pro/cdn-query
-[/download.qcpp1.net/]https://doh.apad.pro/cdn-query
-[/download.qpdp1.net/]https://doh.apad.pro/cdn-query
-[/download.tensorflow.google.com/]https://doh.apad.pro/cdn-query
-[/emmapplecodevice.googleapis.com/]https://doh.apad.pro/cdn-query
-[/firebase-settings.crashlytics.com/]https://doh.apad.pro/cdn-query
-[/fontfiles.googleadapis.com/]https://doh.apad.pro/cdn-query
-[/fontfiles.googleapis.com/]https://doh.apad.pro/cdn-query
-[/fonts.googleadapis.com/]https://doh.apad.pro/cdn-query
-[/fonts.googleapis.com/]https://doh.apad.pro/cdn-query
-[/fonts.gstatic.com/]https://doh.apad.pro/cdn-query
-[/g0.gstatic.com/]https://doh.apad.pro/cdn-query
-[/g1.gstatic.com/]https://doh.apad.pro/cdn-query
-[/g2.gstatic.com/]https://doh.apad.pro/cdn-query
-[/g3.gstatic.com/]https://doh.apad.pro/cdn-query
-[/gcpnode.com/]https://doh.apad.pro/cdn-query
-[/gonglchuangl.net/]https://doh.apad.pro/cdn-query
-[/gongyichuangyi.net/]https://doh.apad.pro/cdn-query
-[/google-analytics-cn.com/]https://doh.apad.pro/cdn-query
-[/google-analytics.com/]https://doh.apad.pro/cdn-query
-[/googleadservices-cn.com/]https://doh.apad.pro/cdn-query
-[/googleadservices.com/]https://doh.apad.pro/cdn-query
-[/googleanalytics.com/]https://doh.apad.pro/cdn-query
-[/googleapis-cn.com/]https://doh.apad.pro/cdn-query
-[/googleapps-cn.com/]https://doh.apad.pro/cdn-query
-[/googleflights-cn.net/]https://doh.apad.pro/cdn-query
-[/googleoptimize-cn.com/]https://doh.apad.pro/cdn-query
-[/googleoptimize.com/]https://doh.apad.pro/cdn-query
-[/googleplex.com/]https://doh.apad.pro/cdn-query
-[/googlesyndication-cn.com/]https://doh.apad.pro/cdn-query
-[/googlesyndication.com/]https://doh.apad.pro/cdn-query
-[/googletagmanager-cn.com/]https://doh.apad.pro/cdn-query
-[/googletagmanager.com/]https://doh.apad.pro/cdn-query
-[/googletagservices-cn.com/]https://doh.apad.pro/cdn-query
-[/googletagservices.com/]https://doh.apad.pro/cdn-query
-[/googletraveladservices-cn.com/]https://doh.apad.pro/cdn-query
-[/googletraveladservices.com/]https://doh.apad.pro/cdn-query
-[/googlevads-cn.com/]https://doh.apad.pro/cdn-query
-[/goto.google.com/]https://doh.apad.pro/cdn-query
-[/gstatic-cn.com/]https://doh.apad.pro/cdn-query
-[/gstaticadssl.l.google.com/]https://doh.apad.pro/cdn-query
-[/gtm.oasisfeng.com/]https://doh.apad.pro/cdn-query
-[/gvt1-cn.com/]https://doh.apad.pro/cdn-query
-[/gvt2-cn.com/]https://doh.apad.pro/cdn-query
-[/imasdk.googleapis.com/]https://doh.apad.pro/cdn-query
-[/monitoring.qatp1.net/]https://doh.apad.pro/cdn-query
-[/monitoring.qcpp1.net/]https://doh.apad.pro/cdn-query
-[/monitoring.qpdp1.net/]https://doh.apad.pro/cdn-query
-[/ocsp.pki.goog/]https://doh.apad.pro/cdn-query
-[/pagead-googlehosted.l.google.com/]https://doh.apad.pro/cdn-query
-[/performanceparameters.googleapis.com/]https://doh.apad.pro/cdn-query
-[/pki-goog.l.google.com/]https://doh.apad.pro/cdn-query
-[/play.1ucrs.com/]https://doh.apad.pro/cdn-query
-[/prod-controlbe.floonet.goog/]https://doh.apad.pro/cdn-query
-[/prod-databe.floonet.goog/]https://doh.apad.pro/cdn-query
-[/prod.databe.floonet.goog/]https://doh.apad.pro/cdn-query
-[/qagpublic.qatp1.net/]https://doh.apad.pro/cdn-query
-[/qagpublic.qcpp1.net/]https://doh.apad.pro/cdn-query
-[/qagpublic.qpdp1.net/]https://doh.apad.pro/cdn-query
-[/qgadmin.qatp1.net/]https://doh.apad.pro/cdn-query
-[/qgadmin.qcpp1.net/]https://doh.apad.pro/cdn-query
-[/qgadmin.qpdp1.net/]https://doh.apad.pro/cdn-query
-[/qpx.googleflights.net/]https://doh.apad.pro/cdn-query
-[/qualysapi.qatp1.net/]https://doh.apad.pro/cdn-query
-[/qualysapi.qcpp1.net/]https://doh.apad.pro/cdn-query
-[/qualysapi.qpdp1.net/]https://doh.apad.pro/cdn-query
-[/qualysguard.qatp1.net/]https://doh.apad.pro/cdn-query
-[/qualysguard.qcpp1.net/]https://doh.apad.pro/cdn-query
-[/qualysguard.qpdp1.net/]https://doh.apad.pro/cdn-query
-[/recaptcha.net/]https://doh.apad.pro/cdn-query
-[/redirector.bdn.dev/]https://doh.apad.pro/cdn-query
-[/redirector.c.chat.google.com/]https://doh.apad.pro/cdn-query
-[/redirector.c.mail.google.com/]https://doh.apad.pro/cdn-query
-[/redirector.c.pack.google.com/]https://doh.apad.pro/cdn-query
-[/redirector.c.play.google.com/]https://doh.apad.pro/cdn-query
-[/redirector.c.youtubeeducation.com/]https://doh.apad.pro/cdn-query
-[/redirector.gcpcdn.gvt1.com/]https://doh.apad.pro/cdn-query
-[/redirector.gvt1.com/]https://doh.apad.pro/cdn-query
-[/redirector.offline-maps.gvt1.com/]https://doh.apad.pro/cdn-query
-[/redirector.snap.gvt1.com/]https://doh.apad.pro/cdn-query
-[/redirector.xn--ngstr-lra8j.com/]https://doh.apad.pro/cdn-query
-[/regioninfo-pa.googleapis.com/]https://doh.apad.pro/cdn-query
-[/safebrowsing.googleapis.com/]https://doh.apad.pro/cdn-query
-[/scanservice1.qatp1.net/]https://doh.apad.pro/cdn-query
-[/scanservice1.qcpp1.net/]https://doh.apad.pro/cdn-query
-[/scanservice1.qpdp1.net/]https://doh.apad.pro/cdn-query
-[/service.urchin.com/]https://doh.apad.pro/cdn-query
-[/settings.xn--9trs65b.com/]https://doh.apad.pro/cdn-query
-[/ssl-google-analytics.l.google.com/]https://doh.apad.pro/cdn-query
-[/ssl.gstatic.com/]https://doh.apad.pro/cdn-query
-[/staging-controlbe.floonet.goog/]https://doh.apad.pro/cdn-query
-[/staging-databe.floonet.goog/]https://doh.apad.pro/cdn-query
-[/staging-regioninfo-pa.googleapis.com/]https://doh.apad.pro/cdn-query
-[/staging.databe.floonet.goog/]https://doh.apad.pro/cdn-query
-[/support.1ucrs.com/]https://doh.apad.pro/cdn-query
-[/tac.googleapis.com/]https://doh.apad.pro/cdn-query
-[/test.bugs-qa.chromium.org/]https://doh.apad.pro/cdn-query
-[/test.gbugs-qa.chromium.org/]https://doh.apad.pro/cdn-query
-[/tools.google.com/]https://doh.apad.pro/cdn-query
-[/tools.l.google.com/]https://doh.apad.pro/cdn-query
-[/up.corp.goog/]https://doh.apad.pro/cdn-query
-[/up.gcp.googlers.com/]https://doh.apad.pro/cdn-query
-[/update.crashlytics.com/]https://doh.apad.pro/cdn-query
-[/update.googleapis.com/]https://doh.apad.pro/cdn-query
-[/wear.googleapis.com/]https://doh.apad.pro/cdn-query
-[/www-google-analytics.l.google.com/]https://doh.apad.pro/cdn-query
-[/www-googletagmanager.l.google.com/]https://doh.apad.pro/cdn-query
-[/www.destinationurl.com/]https://doh.apad.pro/cdn-query
-[/www.googleadapis.com/]https://doh.apad.pro/cdn-query
-[/www.gstatic.com/]https://doh.apad.pro/cdn-query
-[/www.pxcc.com/]https://doh.apad.pro/cdn-query
-[/xn--9kr7l.com/]https://doh.apad.pro/cdn-query
-[/xn--flw351e.com/]https://doh.apad.pro/cdn-query
+[/265.com/]tls://223.5.5.5 tls://120.53.53.53
+[/2mdn-cn.net/]tls://223.5.5.5 tls://120.53.53.53
+[/2mdn.net/]tls://223.5.5.5 tls://120.53.53.53
+[/accounts.googlers.com/]tls://223.5.5.5 tls://120.53.53.53
+[/accounts.xn--9trs65b.com/]tls://223.5.5.5 tls://120.53.53.53
+[/accounts.xn--ggle-55da.com/]tls://223.5.5.5 tls://120.53.53.53
+[/admob-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/adservice.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/ai.ytimg.com/]tls://223.5.5.5 tls://120.53.53.53
+[/app-measurement-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/app-measurement.com/]tls://223.5.5.5 tls://120.53.53.53
+[/apps5.oingo.com/]tls://223.5.5.5 tls://120.53.53.53
+[/avail.googleflights.net/]tls://223.5.5.5 tls://120.53.53.53
+[/beacons.gcp.gvt2.com/]tls://223.5.5.5 tls://120.53.53.53
+[/beacons.gvt2.com/]tls://223.5.5.5 tls://120.53.53.53
+[/beacons2.gvt2.com/]tls://223.5.5.5 tls://120.53.53.53
+[/beacons3.gvt2.com/]tls://223.5.5.5 tls://120.53.53.53
+[/borgmon.adz.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/c.admob.com/]tls://223.5.5.5 tls://120.53.53.53
+[/c.android.clients.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/cache-management-prod.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/cache.pack.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/checkin.gstatic.com/]tls://223.5.5.5 tls://120.53.53.53
+[/clickserve.cc-dt.com/]tls://223.5.5.5 tls://120.53.53.53
+[/clickserve.dartsearch.net/]tls://223.5.5.5 tls://120.53.53.53
+[/clickserver.googleads.com/]tls://223.5.5.5 tls://120.53.53.53
+[/clientservices.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/cn.widevine.com/]tls://223.5.5.5 tls://120.53.53.53
+[/cnappinstall.googleadapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/connectivitycheck.gstatic.com/]tls://223.5.5.5 tls://120.53.53.53
+[/content.googleadapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/corp.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/corp.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/crashlyticsreports-pa.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/crl.pki.goog/]tls://223.5.5.5 tls://120.53.53.53
+[/csi.gstatic.com/]tls://223.5.5.5 tls://120.53.53.53
+[/dartsearch-cn.net/]tls://223.5.5.5 tls://120.53.53.53
+[/dg-meta.video.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/distribution.qatp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/distribution.qcpp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/distribution.qpdp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/dl.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/dl.l.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/doubleclick-cn.net/]tls://223.5.5.5 tls://120.53.53.53
+[/doubleclick.net/]tls://223.5.5.5 tls://120.53.53.53
+[/download.mlcc.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/download.qatp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/download.qcpp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/download.qpdp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/download.tensorflow.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/emmapplecodevice.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/firebase-settings.crashlytics.com/]tls://223.5.5.5 tls://120.53.53.53
+[/fontfiles.googleadapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/fontfiles.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/fonts.googleadapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/fonts.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/fonts.gstatic.com/]tls://223.5.5.5 tls://120.53.53.53
+[/g0.gstatic.com/]tls://223.5.5.5 tls://120.53.53.53
+[/g1.gstatic.com/]tls://223.5.5.5 tls://120.53.53.53
+[/g2.gstatic.com/]tls://223.5.5.5 tls://120.53.53.53
+[/g3.gstatic.com/]tls://223.5.5.5 tls://120.53.53.53
+[/gcpnode.com/]tls://223.5.5.5 tls://120.53.53.53
+[/gonglchuangl.net/]tls://223.5.5.5 tls://120.53.53.53
+[/gongyichuangyi.net/]tls://223.5.5.5 tls://120.53.53.53
+[/google-analytics-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/google-analytics.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googleadservices-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googleadservices.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googleanalytics.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googleapis-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googleapps-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googleflights-cn.net/]tls://223.5.5.5 tls://120.53.53.53
+[/googleoptimize-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googleoptimize.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googleplex.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googlesyndication-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googlesyndication.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googletagmanager-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googletagmanager.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googletagservices-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googletagservices.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googletraveladservices-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googletraveladservices.com/]tls://223.5.5.5 tls://120.53.53.53
+[/googlevads-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/goto.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/gstatic-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/gstaticadssl.l.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/gtm.oasisfeng.com/]tls://223.5.5.5 tls://120.53.53.53
+[/gvt1-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/gvt2-cn.com/]tls://223.5.5.5 tls://120.53.53.53
+[/imasdk.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/monitoring.qatp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/monitoring.qcpp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/monitoring.qpdp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/ocsp.pki.goog/]tls://223.5.5.5 tls://120.53.53.53
+[/pagead-googlehosted.l.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/performanceparameters.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/pki-goog.l.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/play.1ucrs.com/]tls://223.5.5.5 tls://120.53.53.53
+[/prod-controlbe.floonet.goog/]tls://223.5.5.5 tls://120.53.53.53
+[/prod-databe.floonet.goog/]tls://223.5.5.5 tls://120.53.53.53
+[/prod.databe.floonet.goog/]tls://223.5.5.5 tls://120.53.53.53
+[/qagpublic.qatp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qagpublic.qcpp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qagpublic.qpdp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qgadmin.qatp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qgadmin.qcpp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qgadmin.qpdp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qpx.googleflights.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qualysapi.qatp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qualysapi.qcpp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qualysapi.qpdp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qualysguard.qatp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qualysguard.qcpp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/qualysguard.qpdp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/recaptcha.net/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.bdn.dev/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.c.chat.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.c.mail.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.c.pack.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.c.play.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.c.youtubeeducation.com/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.gcpcdn.gvt1.com/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.gvt1.com/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.offline-maps.gvt1.com/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.snap.gvt1.com/]tls://223.5.5.5 tls://120.53.53.53
+[/redirector.xn--ngstr-lra8j.com/]tls://223.5.5.5 tls://120.53.53.53
+[/regioninfo-pa.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/safebrowsing.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/scanservice1.qatp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/scanservice1.qcpp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/scanservice1.qpdp1.net/]tls://223.5.5.5 tls://120.53.53.53
+[/service.urchin.com/]tls://223.5.5.5 tls://120.53.53.53
+[/settings.xn--9trs65b.com/]tls://223.5.5.5 tls://120.53.53.53
+[/ssl-google-analytics.l.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/ssl.gstatic.com/]tls://223.5.5.5 tls://120.53.53.53
+[/staging-controlbe.floonet.goog/]tls://223.5.5.5 tls://120.53.53.53
+[/staging-databe.floonet.goog/]tls://223.5.5.5 tls://120.53.53.53
+[/staging-regioninfo-pa.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/staging.databe.floonet.goog/]tls://223.5.5.5 tls://120.53.53.53
+[/support.1ucrs.com/]tls://223.5.5.5 tls://120.53.53.53
+[/tac.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/test.bugs-qa.chromium.org/]tls://223.5.5.5 tls://120.53.53.53
+[/test.gbugs-qa.chromium.org/]tls://223.5.5.5 tls://120.53.53.53
+[/tools.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/tools.l.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/up.corp.goog/]tls://223.5.5.5 tls://120.53.53.53
+[/up.gcp.googlers.com/]tls://223.5.5.5 tls://120.53.53.53
+[/update.crashlytics.com/]tls://223.5.5.5 tls://120.53.53.53
+[/update.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/wear.googleapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/www-google-analytics.l.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/www-googletagmanager.l.google.com/]tls://223.5.5.5 tls://120.53.53.53
+[/www.destinationurl.com/]tls://223.5.5.5 tls://120.53.53.53
+[/www.googleadapis.com/]tls://223.5.5.5 tls://120.53.53.53
+[/www.gstatic.com/]tls://223.5.5.5 tls://120.53.53.53
+[/www.pxcc.com/]tls://223.5.5.5 tls://120.53.53.53
+[/xn--9kr7l.com/]tls://223.5.5.5 tls://120.53.53.53
+[/xn--flw351e.com/]tls://223.5.5.5 tls://120.53.53.53
