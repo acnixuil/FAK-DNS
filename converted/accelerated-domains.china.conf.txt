@@ -77,6 +77,8 @@
 [/0138.com/]tls://dns.alidns.com tls://dot.pub
 [/014.cc/]tls://dns.alidns.com tls://dot.pub
 [/016sf.com/]tls://dns.alidns.com tls://dot.pub
+[/01bzw.cc/]tls://dns.alidns.com tls://dot.pub
+[/01bzw.us/]tls://dns.alidns.com tls://dot.pub
 [/01caijing.com/]tls://dns.alidns.com tls://dot.pub
 [/01faxing.com/]tls://dns.alidns.com tls://dot.pub
 [/01home.com/]tls://dns.alidns.com tls://dot.pub
@@ -780,7 +782,6 @@
 [/1066888.com/]tls://dns.alidns.com tls://dot.pub
 [/1073.com/]tls://dns.alidns.com tls://dot.pub
 [/107788.com/]tls://dns.alidns.com tls://dot.pub
-[/108101.xyz/]tls://dns.alidns.com tls://dot.pub
 [/108105.xyz/]tls://dns.alidns.com tls://dot.pub
 [/108cun.com/]tls://dns.alidns.com tls://dot.pub
 [/108pk.com/]tls://dns.alidns.com tls://dot.pub
@@ -1711,6 +1712,7 @@
 [/1cnmedia.com/]tls://dns.alidns.com tls://dot.pub
 [/1cno.com/]tls://dns.alidns.com tls://dot.pub
 [/1d1d100.com/]tls://dns.alidns.com tls://dot.pub
+[/1daiyun.com/]tls://dns.alidns.com tls://dot.pub
 [/1dao99.com/]tls://dns.alidns.com tls://dot.pub
 [/1diaocha.com/]tls://dns.alidns.com tls://dot.pub
 [/1diary.me/]tls://dns.alidns.com tls://dot.pub
@@ -2062,6 +2064,7 @@
 [/22plc.com/]tls://dns.alidns.com tls://dot.pub
 [/22shop.com/]tls://dns.alidns.com tls://dot.pub
 [/22tianbo.com/]tls://dns.alidns.com tls://dot.pub
+[/22vape.com/]tls://dns.alidns.com tls://dot.pub
 [/22vd.com/]tls://dns.alidns.com tls://dot.pub
 [/22zw.com/]tls://dns.alidns.com tls://dot.pub
 [/2300sjz.com/]tls://dns.alidns.com tls://dot.pub
@@ -2132,6 +2135,7 @@
 [/23us.tv/]tls://dns.alidns.com tls://dot.pub
 [/23us23us.com/]tls://dns.alidns.com tls://dot.pub
 [/23uswx.com/]tls://dns.alidns.com tls://dot.pub
+[/23uswx.net/]tls://dns.alidns.com tls://dot.pub
 [/23wow.com/]tls://dns.alidns.com tls://dot.pub
 [/23wx.cc/]tls://dns.alidns.com tls://dot.pub
 [/23wx.io/]tls://dns.alidns.com tls://dot.pub
@@ -2584,6 +2588,7 @@
 [/333y3.com/]tls://dns.alidns.com tls://dot.pub
 [/334433.xyz/]tls://dns.alidns.com tls://dot.pub
 [/3344u.com/]tls://dns.alidns.com tls://dot.pub
+[/334837632.xyz/]tls://dns.alidns.com tls://dot.pub
 [/33519.com/]tls://dns.alidns.com tls://dot.pub
 [/3359.com/]tls://dns.alidns.com tls://dot.pub
 [/3361.com/]tls://dns.alidns.com tls://dot.pub
@@ -2878,7 +2883,6 @@
 [/365sydc.com/]tls://dns.alidns.com tls://dot.pub
 [/365ta.com/]tls://dns.alidns.com tls://dot.pub
 [/365time.com/]tls://dns.alidns.com tls://dot.pub
-[/365ttcz.com/]tls://dns.alidns.com tls://dot.pub
 [/365webcall.com/]tls://dns.alidns.com tls://dot.pub
 [/365world.com/]tls://dns.alidns.com tls://dot.pub
 [/365xiaoyanzi.com/]tls://dns.alidns.com tls://dot.pub
@@ -3034,6 +3038,7 @@
 [/39kf.com/]tls://dns.alidns.com tls://dot.pub
 [/39meitu.com/]tls://dns.alidns.com tls://dot.pub
 [/39shubao.com/]tls://dns.alidns.com tls://dot.pub
+[/39shuwu.com/]tls://dns.alidns.com tls://dot.pub
 [/39sk.com/]tls://dns.alidns.com tls://dot.pub
 [/39txt.com/]tls://dns.alidns.com tls://dot.pub
 [/39ws.com/]tls://dns.alidns.com tls://dot.pub
@@ -3194,6 +3199,7 @@
 [/3y7h.com/]tls://dns.alidns.com tls://dot.pub
 [/3yakj.com/]tls://dns.alidns.com tls://dot.pub
 [/3yoqu.com/]tls://dns.alidns.com tls://dot.pub
+[/3yt.com/]tls://dns.alidns.com tls://dot.pub
 [/3yt.la/]tls://dns.alidns.com tls://dot.pub
 [/3yun.net/]tls://dns.alidns.com tls://dot.pub
 [/3yx.com/]tls://dns.alidns.com tls://dot.pub
@@ -3872,7 +3878,6 @@
 [/51oneone.com/]tls://dns.alidns.com tls://dot.pub
 [/51onion.com/]tls://dns.alidns.com tls://dot.pub
 [/51onlines.com/]tls://dns.alidns.com tls://dot.pub
-[/51only.com/]tls://dns.alidns.com tls://dot.pub
 [/51open.net/]tls://dns.alidns.com tls://dot.pub
 [/51opone.com/]tls://dns.alidns.com tls://dot.pub
 [/51ops.com/]tls://dns.alidns.com tls://dot.pub
@@ -4355,6 +4360,7 @@
 [/52xiuxian.com/]tls://dns.alidns.com tls://dot.pub
 [/52xiyou.com/]tls://dns.alidns.com tls://dot.pub
 [/52xyz.com/]tls://dns.alidns.com tls://dot.pub
+[/52xz.com/]tls://dns.alidns.com tls://dot.pub
 [/52yawa.com/]tls://dns.alidns.com tls://dot.pub
 [/52yh.com/]tls://dns.alidns.com tls://dot.pub
 [/52yifei.com/]tls://dns.alidns.com tls://dot.pub
@@ -4417,6 +4423,7 @@
 [/545c.com/]tls://dns.alidns.com tls://dot.pub
 [/5460.net/]tls://dns.alidns.com tls://dot.pub
 [/54674479.com/]tls://dns.alidns.com tls://dot.pub
+[/548xs.com/]tls://dns.alidns.com tls://dot.pub
 [/5499.com/]tls://dns.alidns.com tls://dot.pub
 [/54benniao.com/]tls://dns.alidns.com tls://dot.pub
 [/54doctor.net/]tls://dns.alidns.com tls://dot.pub
@@ -4454,6 +4461,7 @@
 [/5553089.com/]tls://dns.alidns.com tls://dot.pub
 [/55555558.com/]tls://dns.alidns.com tls://dot.pub
 [/555bb888bb.com/]tls://dns.alidns.com tls://dot.pub
+[/555bb999ww.com/]tls://dns.alidns.com tls://dot.pub
 [/555dy.fun/]tls://dns.alidns.com tls://dot.pub
 [/555dyy1.com/]tls://dns.alidns.com tls://dot.pub
 [/555yst.com/]tls://dns.alidns.com tls://dot.pub
@@ -5042,9 +5050,11 @@
 [/66460.com/]tls://dns.alidns.com tls://dot.pub
 [/6655.la/]tls://dns.alidns.com tls://dot.pub
 [/6660333.com/]tls://dns.alidns.com tls://dot.pub
+[/666127.xyz/]tls://dns.alidns.com tls://dot.pub
 [/666546.xyz/]tls://dns.alidns.com tls://dot.pub
 [/6666519.net/]tls://dns.alidns.com tls://dot.pub
 [/66667aaa.com/]tls://dns.alidns.com tls://dot.pub
+[/6666sa.com/]tls://dns.alidns.com tls://dot.pub
 [/666834.xyz/]tls://dns.alidns.com tls://dot.pub
 [/6669667.com/]tls://dns.alidns.com tls://dot.pub
 [/66696y.com/]tls://dns.alidns.com tls://dot.pub
@@ -5120,6 +5130,7 @@
 [/67017.com/]tls://dns.alidns.com tls://dot.pub
 [/6711.com/]tls://dns.alidns.com tls://dot.pub
 [/6711img.com/]tls://dns.alidns.com tls://dot.pub
+[/673m2f.com/]tls://dns.alidns.com tls://dot.pub
 [/6760x.com/]tls://dns.alidns.com tls://dot.pub
 [/676z.com/]tls://dns.alidns.com tls://dot.pub
 [/6786666.com/]tls://dns.alidns.com tls://dot.pub
@@ -5893,7 +5904,6 @@
 [/86hr.com/]tls://dns.alidns.com tls://dot.pub
 [/86huoche.com/]tls://dns.alidns.com tls://dot.pub
 [/86jg.com/]tls://dns.alidns.com tls://dot.pub
-[/86jobs.com/]tls://dns.alidns.com tls://dot.pub
 [/86joy.com/]tls://dns.alidns.com tls://dot.pub
 [/86kang.com/]tls://dns.alidns.com tls://dot.pub
 [/86kl.com/]tls://dns.alidns.com tls://dot.pub
@@ -6020,6 +6030,7 @@
 [/88rpg.net/]tls://dns.alidns.com tls://dot.pub
 [/88tang.com/]tls://dns.alidns.com tls://dot.pub
 [/88tph.com/]tls://dns.alidns.com tls://dot.pub
+[/88ttv.com/]tls://dns.alidns.com tls://dot.pub
 [/88u.com/]tls://dns.alidns.com tls://dot.pub
 [/88xiaoshuo.com/]tls://dns.alidns.com tls://dot.pub
 [/88xr.org/]tls://dns.alidns.com tls://dot.pub
@@ -6101,6 +6112,7 @@
 [/8qwe5.com/]tls://dns.alidns.com tls://dot.pub
 [/8s123.com/]tls://dns.alidns.com tls://dot.pub
 [/8tgh.com/]tls://dns.alidns.com tls://dot.pub
+[/8tsw.com/]tls://dns.alidns.com tls://dot.pub
 [/8ttt8.com/]tls://dns.alidns.com tls://dot.pub
 [/8tupian.com/]tls://dns.alidns.com tls://dot.pub
 [/8twan.com/]tls://dns.alidns.com tls://dot.pub
@@ -6376,6 +6388,7 @@
 [/922835.com/]tls://dns.alidns.com tls://dot.pub
 [/925g.com/]tls://dns.alidns.com tls://dot.pub
 [/925ps.com/]tls://dns.alidns.com tls://dot.pub
+[/926kf.com/]tls://dns.alidns.com tls://dot.pub
 [/927.la/]tls://dns.alidns.com tls://dot.pub
 [/927927.com/]tls://dns.alidns.com tls://dot.pub
 [/927953.com/]tls://dns.alidns.com tls://dot.pub
@@ -6787,6 +6800,7 @@
 [/99qimingzi.com/]tls://dns.alidns.com tls://dot.pub
 [/99qumingzi.com/]tls://dns.alidns.com tls://dot.pub
 [/99read.com/]tls://dns.alidns.com tls://dot.pub
+[/99read.xyz/]tls://dns.alidns.com tls://dot.pub
 [/99shou.com/]tls://dns.alidns.com tls://dot.pub
 [/99sky.com/]tls://dns.alidns.com tls://dot.pub
 [/99sun.com/]tls://dns.alidns.com tls://dot.pub
@@ -7591,6 +7605,7 @@
 [/aidrive.com/]tls://dns.alidns.com tls://dot.pub
 [/aiduoka.com/]tls://dns.alidns.com tls://dot.pub
 [/aidusk.com/]tls://dns.alidns.com tls://dot.pub
+[/aidusk.org/]tls://dns.alidns.com tls://dot.pub
 [/aiduwenxue.com/]tls://dns.alidns.com tls://dot.pub
 [/aiec-alliance.com/]tls://dns.alidns.com tls://dot.pub
 [/aiegle.com/]tls://dns.alidns.com tls://dot.pub
@@ -7629,6 +7644,7 @@
 [/aiguhuishou.com/]tls://dns.alidns.com tls://dot.pub
 [/aiguilai.com/]tls://dns.alidns.com tls://dot.pub
 [/aigupiao.com/]tls://dns.alidns.com tls://dot.pub
+[/aigyog.com/]tls://dns.alidns.com tls://dot.pub
 [/aihaisi.com/]tls://dns.alidns.com tls://dot.pub
 [/aihala.com/]tls://dns.alidns.com tls://dot.pub
 [/aihanfu.com/]tls://dns.alidns.com tls://dot.pub
@@ -7770,6 +7786,7 @@
 [/aiseeking.com/]tls://dns.alidns.com tls://dot.pub
 [/aiseminar.com/]tls://dns.alidns.com tls://dot.pub
 [/aisenseinc.com/]tls://dns.alidns.com tls://dot.pub
+[/aishangba.info/]tls://dns.alidns.com tls://dot.pub
 [/aishangba.org/]tls://dns.alidns.com tls://dot.pub
 [/aishangyangyu.com/]tls://dns.alidns.com tls://dot.pub
 [/aishengji.com/]tls://dns.alidns.com tls://dot.pub
@@ -7842,6 +7859,7 @@
 [/aixinyunfan.com/]tls://dns.alidns.com tls://dot.pub
 [/aixiu.net/]tls://dns.alidns.com tls://dot.pub
 [/aixq.com/]tls://dns.alidns.com tls://dot.pub
+[/aixs.info/]tls://dns.alidns.com tls://dot.pub
 [/aixue.net/]tls://dns.alidns.com tls://dot.pub
 [/aixuedai.com/]tls://dns.alidns.com tls://dot.pub
 [/aixuejun.com/]tls://dns.alidns.com tls://dot.pub
@@ -8349,7 +8367,6 @@
 [/angli.me/]tls://dns.alidns.com tls://dot.pub
 [/anglo-chinese.com/]tls://dns.alidns.com tls://dot.pub
 [/angogotech.net/]tls://dns.alidns.com tls://dot.pub
-[/angruo.com/]tls://dns.alidns.com tls://dot.pub
 [/angrymiao.com/]tls://dns.alidns.com tls://dot.pub
 [/angui.org/]tls://dns.alidns.com tls://dot.pub
 [/angwei.net/]tls://dns.alidns.com tls://dot.pub
@@ -8433,7 +8450,6 @@
 [/ansgo.com/]tls://dns.alidns.com tls://dot.pub
 [/anshuntech.ltd/]tls://dns.alidns.com tls://dot.pub
 [/ansiding.com/]tls://dns.alidns.com tls://dot.pub
-[/ansky.com/]tls://dns.alidns.com tls://dot.pub
 [/ansteelgroup.com/]tls://dns.alidns.com tls://dot.pub
 [/ant-cloud.net/]tls://dns.alidns.com tls://dot.pub
 [/ant78.com/]tls://dns.alidns.com tls://dot.pub
@@ -9247,12 +9263,14 @@
 [/awsdns-cn-14.biz/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-17.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-19.net/]tls://dns.alidns.com tls://dot.pub
+[/awsdns-cn-20.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-21.biz/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-24.com/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-24.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-29.biz/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-36.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-37.net/]tls://dns.alidns.com tls://dot.pub
+[/awsdns-cn-38.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-39.biz/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-40.biz/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-40.net/]tls://dns.alidns.com tls://dot.pub
@@ -9268,6 +9286,7 @@
 [/awsdns-cn-58.biz/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-58.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-60.com/]tls://dns.alidns.com tls://dot.pub
+[/awsdns-cn-63.biz/]tls://dns.alidns.com tls://dot.pub
 [/awsok.com/]tls://dns.alidns.com tls://dot.pub
 [/awspal.com/]tls://dns.alidns.com tls://dot.pub
 [/awstar.net/]tls://dns.alidns.com tls://dot.pub
@@ -10015,6 +10034,7 @@
 [/bbmy.net/]tls://dns.alidns.com tls://dot.pub
 [/bbobo.com/]tls://dns.alidns.com tls://dot.pub
 [/bbonfire.com/]tls://dns.alidns.com tls://dot.pub
+[/bbqcdn.com/]tls://dns.alidns.com tls://dot.pub
 [/bbqe.com/]tls://dns.alidns.com tls://dot.pub
 [/bbqk.com/]tls://dns.alidns.com tls://dot.pub
 [/bbrtv.com/]tls://dns.alidns.com tls://dot.pub
@@ -10110,6 +10130,7 @@
 [/bdgw.cc/]tls://dns.alidns.com tls://dot.pub
 [/bdimg.com/]tls://dns.alidns.com tls://dot.pub
 [/bdinfo.net/]tls://dns.alidns.com tls://dot.pub
+[/bdispatch.com/]tls://dns.alidns.com tls://dot.pub
 [/bdkssc.com/]tls://dns.alidns.com tls://dot.pub
 [/bdkyr.com/]tls://dns.alidns.com tls://dot.pub
 [/bdpan.com/]tls://dns.alidns.com tls://dot.pub
@@ -10493,7 +10514,6 @@
 [/bhdata.com/]tls://dns.alidns.com tls://dot.pub
 [/bhfangchan.com/]tls://dns.alidns.com tls://dot.pub
 [/bhgmarketplace.com/]tls://dns.alidns.com tls://dot.pub
-[/bhhgallery.com/]tls://dns.alidns.com tls://dot.pub
 [/bhidi.com/]tls://dns.alidns.com tls://dot.pub
 [/bhjck.com/]tls://dns.alidns.com tls://dot.pub
 [/bhnsh.com/]tls://dns.alidns.com tls://dot.pub
@@ -10765,6 +10785,7 @@
 [/biotecan.com/]tls://dns.alidns.com tls://dot.pub
 [/biovector.net/]tls://dns.alidns.com tls://dot.pub
 [/bipvcn.com/]tls://dns.alidns.com tls://dot.pub
+[/biqg8.com/]tls://dns.alidns.com tls://dot.pub
 [/biqige.cc/]tls://dns.alidns.com tls://dot.pub
 [/biqiudu.com/]tls://dns.alidns.com tls://dot.pub
 [/biqiuge.com/]tls://dns.alidns.com tls://dot.pub
@@ -10785,6 +10806,7 @@
 [/biquge99.cc/]tls://dns.alidns.com tls://dot.pub
 [/biqugeabc.com/]tls://dns.alidns.com tls://dot.pub
 [/biqugebook.com/]tls://dns.alidns.com tls://dot.pub
+[/biqugecdn.com/]tls://dns.alidns.com tls://dot.pub
 [/biqugeg.com/]tls://dns.alidns.com tls://dot.pub
 [/biqugegg.cc/]tls://dns.alidns.com tls://dot.pub
 [/biqugena.com/]tls://dns.alidns.com tls://dot.pub
@@ -10796,6 +10818,7 @@
 [/biqugexs.com/]tls://dns.alidns.com tls://dot.pub
 [/biqugexs.la/]tls://dns.alidns.com tls://dot.pub
 [/biqugexx.com/]tls://dns.alidns.com tls://dot.pub
+[/biquka.com/]tls://dns.alidns.com tls://dot.pub
 [/biqukan.com/]tls://dns.alidns.com tls://dot.pub
 [/biquke.com/]tls://dns.alidns.com tls://dot.pub
 [/biquke.me/]tls://dns.alidns.com tls://dot.pub
@@ -10806,8 +10829,10 @@
 [/biqupai.com/]tls://dns.alidns.com tls://dot.pub
 [/biqusa.com/]tls://dns.alidns.com tls://dot.pub
 [/biqushu.com/]tls://dns.alidns.com tls://dot.pub
+[/biqusk.com/]tls://dns.alidns.com tls://dot.pub
 [/biqusoso.com/]tls://dns.alidns.com tls://dot.pub
 [/biquw.com/]tls://dns.alidns.com tls://dot.pub
+[/biquw.info/]tls://dns.alidns.com tls://dot.pub
 [/biquwo.com/]tls://dns.alidns.com tls://dot.pub
 [/biquwo.net/]tls://dns.alidns.com tls://dot.pub
 [/biquwx.la/]tls://dns.alidns.com tls://dot.pub
@@ -10942,6 +10967,7 @@
 [/bj5188.com/]tls://dns.alidns.com tls://dot.pub
 [/bj520.com/]tls://dns.alidns.com tls://dot.pub
 [/bj597.com/]tls://dns.alidns.com tls://dot.pub
+[/bj5i5j.com/]tls://dns.alidns.com tls://dot.pub
 [/bj65z.com/]tls://dns.alidns.com tls://dot.pub
 [/bj96007.com/]tls://dns.alidns.com tls://dot.pub
 [/bjadks.com/]tls://dns.alidns.com tls://dot.pub
@@ -10975,6 +11001,7 @@
 [/bjcta.net/]tls://dns.alidns.com tls://dot.pub
 [/bjcxdf.com/]tls://dns.alidns.com tls://dot.pub
 [/bjcycg.com/]tls://dns.alidns.com tls://dot.pub
+[/bjcymt.com/]tls://dns.alidns.com tls://dot.pub
 [/bjcyzg.com/]tls://dns.alidns.com tls://dot.pub
 [/bjdcfy.com/]tls://dns.alidns.com tls://dot.pub
 [/bjdfxj.com/]tls://dns.alidns.com tls://dot.pub
@@ -13842,6 +13869,7 @@
 [/china-m2m.com/]tls://dns.alidns.com tls://dot.pub
 [/china-mile.com/]tls://dns.alidns.com tls://dot.pub
 [/china-moutai.com/]tls://dns.alidns.com tls://dot.pub
+[/china-mt.org/]tls://dns.alidns.com tls://dot.pub
 [/china-nengyuan.com/]tls://dns.alidns.com tls://dot.pub
 [/china-nlp.com/]tls://dns.alidns.com tls://dot.pub
 [/china-obgyn.net/]tls://dns.alidns.com tls://dot.pub
@@ -14706,7 +14734,6 @@
 [/chuixue.com/]tls://dns.alidns.com tls://dot.pub
 [/chuiyue.com/]tls://dns.alidns.com tls://dot.pub
 [/chuji8.com/]tls://dns.alidns.com tls://dot.pub
-[/chuju750.com/]tls://dns.alidns.com tls://dot.pub
 [/chujuan.net/]tls://dns.alidns.com tls://dot.pub
 [/chukong-inc.com/]tls://dns.alidns.com tls://dot.pub
 [/chukonggame.com/]tls://dns.alidns.com tls://dot.pub
@@ -15106,6 +15133,7 @@
 [/clouddcs.com/]tls://dns.alidns.com tls://dot.pub
 [/clouddiffuse.xyz/]tls://dns.alidns.com tls://dot.pub
 [/clouddn.com/]tls://dns.alidns.com tls://dot.pub
+[/clouddns1.vip/]tls://dns.alidns.com tls://dot.pub
 [/clouddream.net/]tls://dns.alidns.com tls://dot.pub
 [/cloudflare-cn.com/]tls://dns.alidns.com tls://dot.pub
 [/cloudflarecn.net/]tls://dns.alidns.com tls://dot.pub
@@ -16329,6 +16357,7 @@
 [/cqemme.com/]tls://dns.alidns.com tls://dot.pub
 [/cqenergy.com/]tls://dns.alidns.com tls://dot.pub
 [/cqfire.com/]tls://dns.alidns.com tls://dot.pub
+[/cqfus.com/]tls://dns.alidns.com tls://dot.pub
 [/cqfuzhuang.com/]tls://dns.alidns.com tls://dot.pub
 [/cqfygzfw.com/]tls://dns.alidns.com tls://dot.pub
 [/cqgc.com/]tls://dns.alidns.com tls://dot.pub
@@ -16465,7 +16494,6 @@
 [/cr19gj.com/]tls://dns.alidns.com tls://dot.pub
 [/cr6868.com/]tls://dns.alidns.com tls://dot.pub
 [/crabchina.com/]tls://dns.alidns.com tls://dot.pub
-[/crackersta.com/]tls://dns.alidns.com tls://dot.pub
 [/craer.com/]tls://dns.alidns.com tls://dot.pub
 [/craftcontact.com/]tls://dns.alidns.com tls://dot.pub
 [/crandom.com/]tls://dns.alidns.com tls://dot.pub
@@ -17009,6 +17037,7 @@
 [/cyhx98.com/]tls://dns.alidns.com tls://dot.pub
 [/cyikao.com/]tls://dns.alidns.com tls://dot.pub
 [/cyjcloud.com/]tls://dns.alidns.com tls://dot.pub
+[/cyjiasu.com/]tls://dns.alidns.com tls://dot.pub
 [/cyjjw.net/]tls://dns.alidns.com tls://dot.pub
 [/cyjn.net/]tls://dns.alidns.com tls://dot.pub
 [/cyjnsy.com/]tls://dns.alidns.com tls://dot.pub
@@ -17497,6 +17526,7 @@
 [/dapan.com/]tls://dns.alidns.com tls://dot.pub
 [/dapei.cc/]tls://dns.alidns.com tls://dot.pub
 [/dapenti.com/]tls://dns.alidns.com tls://dot.pub
+[/dapingshidai.com/]tls://dns.alidns.com tls://dot.pub
 [/dapiniu.com/]tls://dns.alidns.com tls://dot.pub
 [/dapmax.com/]tls://dns.alidns.com tls://dot.pub
 [/dappdiscover.com/]tls://dns.alidns.com tls://dot.pub
@@ -17780,6 +17810,7 @@
 [/ddimg.net/]tls://dns.alidns.com tls://dot.pub
 [/dding.net/]tls://dns.alidns.com tls://dot.pub
 [/dding121.com/]tls://dns.alidns.com tls://dot.pub
+[/dding133.com/]tls://dns.alidns.com tls://dot.pub
 [/ddjjzz.com/]tls://dns.alidns.com tls://dot.pub
 [/ddjk.com/]tls://dns.alidns.com tls://dot.pub
 [/ddk-alink.com/]tls://dns.alidns.com tls://dot.pub
@@ -17810,6 +17841,7 @@
 [/ddstarapp.com/]tls://dns.alidns.com tls://dot.pub
 [/ddswcm.com/]tls://dns.alidns.com tls://dot.pub
 [/ddsy.com/]tls://dns.alidns.com tls://dot.pub
+[/ddt02.com/]tls://dns.alidns.com tls://dot.pub
 [/ddtugame.com/]tls://dns.alidns.com tls://dot.pub
 [/ddtxgame.com/]tls://dns.alidns.com tls://dot.pub
 [/ddun.com/]tls://dns.alidns.com tls://dot.pub
@@ -17943,6 +17975,7 @@
 [/denachina.com/]tls://dns.alidns.com tls://dot.pub
 [/denganliang.com/]tls://dns.alidns.com tls://dot.pub
 [/dengbi8.com/]tls://dns.alidns.com tls://dot.pub
+[/dengbi8.xyz/]tls://dns.alidns.com tls://dot.pub
 [/dengcuo.com/]tls://dns.alidns.com tls://dot.pub
 [/dengdingsheng.com/]tls://dns.alidns.com tls://dot.pub
 [/denghao.org/]tls://dns.alidns.com tls://dot.pub
@@ -18123,6 +18156,7 @@
 [/dggjqw.com/]tls://dns.alidns.com tls://dot.pub
 [/dggvip.net/]tls://dns.alidns.com tls://dot.pub
 [/dghgzm.com/]tls://dns.alidns.com tls://dot.pub
+[/dghhot.com/]tls://dns.alidns.com tls://dot.pub
 [/dghnyhbvs.xyz/]tls://dns.alidns.com tls://dot.pub
 [/dghqmotor.com/]tls://dns.alidns.com tls://dot.pub
 [/dginfo.com/]tls://dns.alidns.com tls://dot.pub
@@ -18527,6 +18561,7 @@
 [/ditan369.com/]tls://dns.alidns.com tls://dot.pub
 [/dithub.com/]tls://dns.alidns.com tls://dot.pub
 [/ditian-tech.com/]tls://dns.alidns.com tls://dot.pub
+[/ditiee.com/]tls://dns.alidns.com tls://dot.pub
 [/ditiefuli.com/]tls://dns.alidns.com tls://dot.pub
 [/ditiezu.com/]tls://dns.alidns.com tls://dot.pub
 [/ditiezu.net/]tls://dns.alidns.com tls://dot.pub
@@ -18627,6 +18662,7 @@
 [/djzxn47.com/]tls://dns.alidns.com tls://dot.pub
 [/dk-lexus.com/]tls://dns.alidns.com tls://dot.pub
 [/dkdangle.com/]tls://dns.alidns.com tls://dot.pub
+[/dkgyw.com/]tls://dns.alidns.com tls://dot.pub
 [/dkjiaoyang.com/]tls://dns.alidns.com tls://dot.pub
 [/dklogs.net/]tls://dns.alidns.com tls://dot.pub
 [/dkmol.net/]tls://dns.alidns.com tls://dot.pub
@@ -18759,6 +18795,7 @@
 [/dnion.com/]tls://dns.alidns.com tls://dot.pub
 [/dnjsb.com/]tls://dns.alidns.com tls://dot.pub
 [/dnmall.com/]tls://dns.alidns.com tls://dot.pub
+[/dnmcn.com/]tls://dns.alidns.com tls://dot.pub
 [/dnnskin.net/]tls://dns.alidns.com tls://dot.pub
 [/dnnunion.com/]tls://dns.alidns.com tls://dot.pub
 [/dnparking.com/]tls://dns.alidns.com tls://dot.pub
@@ -18792,6 +18829,7 @@
 [/dns800.com/]tls://dns.alidns.com tls://dot.pub
 [/dns819.com/]tls://dns.alidns.com tls://dot.pub
 [/dnsapi12.com/]tls://dns.alidns.com tls://dot.pub
+[/dnsb.sbs/]tls://dns.alidns.com tls://dot.pub
 [/dnsbn.com/]tls://dns.alidns.com tls://dot.pub
 [/dnsce.com/]tls://dns.alidns.com tls://dot.pub
 [/dnscnc.com/]tls://dns.alidns.com tls://dot.pub
@@ -19087,6 +19125,7 @@
 [/douboshi.net/]tls://dns.alidns.com tls://dot.pub
 [/douc.cc/]tls://dns.alidns.com tls://dot.pub
 [/doucang.com/]tls://dns.alidns.com tls://dot.pub
+[/doucehua.com/]tls://dns.alidns.com tls://dot.pub
 [/douco.com/]tls://dns.alidns.com tls://dot.pub
 [/doudang.com/]tls://dns.alidns.com tls://dot.pub
 [/doudehui.com/]tls://dns.alidns.com tls://dot.pub
@@ -19149,6 +19188,7 @@
 [/douyinvideo.net/]tls://dns.alidns.com tls://dot.pub
 [/douyinvod.click/]tls://dns.alidns.com tls://dot.pub
 [/douyinvod.com/]tls://dns.alidns.com tls://dot.pub
+[/douyinxs.com/]tls://dns.alidns.com tls://dot.pub
 [/douyou100.com/]tls://dns.alidns.com tls://dot.pub
 [/douyu.com/]tls://dns.alidns.com tls://dot.pub
 [/douyu.tv/]tls://dns.alidns.com tls://dot.pub
@@ -20608,6 +20648,7 @@
 [/embest-tech.com/]tls://dns.alidns.com tls://dot.pub
 [/embryform.com/]tls://dns.alidns.com tls://dot.pub
 [/embsky.com/]tls://dns.alidns.com tls://dot.pub
+[/embyvip.org/]tls://dns.alidns.com tls://dot.pub
 [/emcbj.com/]tls://dns.alidns.com tls://dot.pub
 [/emcsosin.com/]tls://dns.alidns.com tls://dot.pub
 [/emea.cdnetworks.com/]tls://dns.alidns.com tls://dot.pub
@@ -22316,6 +22357,7 @@
 [/fn-mart.com/]tls://dns.alidns.com tls://dot.pub
 [/fn-tech.com/]tls://dns.alidns.com tls://dot.pub
 [/fn.com/]tls://dns.alidns.com tls://dot.pub
+[/fn01.vip/]tls://dns.alidns.com tls://dot.pub
 [/fnconn.com/]tls://dns.alidns.com tls://dot.pub
 [/fnetlink.com/]tls://dns.alidns.com tls://dot.pub
 [/fnf-foods.com/]tls://dns.alidns.com tls://dot.pub
@@ -22701,6 +22743,7 @@
 [/fujieace.com/]tls://dns.alidns.com tls://dot.pub
 [/fujinjiazheng.com/]tls://dns.alidns.com tls://dot.pub
 [/fujinotrade.com/]tls://dns.alidns.com tls://dot.pub
+[/fuju1.tv/]tls://dns.alidns.com tls://dot.pub
 [/fuka.cc/]tls://dns.alidns.com tls://dot.pub
 [/fukeha.com/]tls://dns.alidns.com tls://dot.pub
 [/fukexie.com/]tls://dns.alidns.com tls://dot.pub
@@ -22812,6 +22855,7 @@
 [/fuyuandian.com/]tls://dns.alidns.com tls://dot.pub
 [/fuyuncc.com/]tls://dns.alidns.com tls://dot.pub
 [/fuyuncun.com/]tls://dns.alidns.com tls://dot.pub
+[/fuyunjiasu.com/]tls://dns.alidns.com tls://dot.pub
 [/fuyuzhe.com/]tls://dns.alidns.com tls://dot.pub
 [/fuz.cc/]tls://dns.alidns.com tls://dot.pub
 [/fuzadu.com/]tls://dns.alidns.com tls://dot.pub
@@ -23346,6 +23390,7 @@
 [/gdatacube.net/]tls://dns.alidns.com tls://dot.pub
 [/gdbhnk.com/]tls://dns.alidns.com tls://dot.pub
 [/gdbljd.com/]tls://dns.alidns.com tls://dot.pub
+[/gdbzkz.org/]tls://dns.alidns.com tls://dot.pub
 [/gdcct.com/]tls://dns.alidns.com tls://dot.pub
 [/gdchess.com/]tls://dns.alidns.com tls://dot.pub
 [/gdcic.net/]tls://dns.alidns.com tls://dot.pub
@@ -24358,7 +24403,6 @@
 [/gqgkj.com/]tls://dns.alidns.com tls://dot.pub
 [/gqjd.net/]tls://dns.alidns.com tls://dot.pub
 [/gqk.tv/]tls://dns.alidns.com tls://dot.pub
-[/gqmdgwh.com/]tls://dns.alidns.com tls://dot.pub
 [/gqqsm.com/]tls://dns.alidns.com tls://dot.pub
 [/gqsoso.com/]tls://dns.alidns.com tls://dot.pub
 [/gqsou.com/]tls://dns.alidns.com tls://dot.pub
@@ -24676,6 +24720,7 @@
 [/gucn.com/]tls://dns.alidns.com tls://dot.pub
 [/gucun.info/]tls://dns.alidns.com tls://dot.pub
 [/gucunpark.net/]tls://dns.alidns.com tls://dot.pub
+[/gudeapp.com/]tls://dns.alidns.com tls://dot.pub
 [/gudemanage.com/]tls://dns.alidns.com tls://dot.pub
 [/gudi.cc/]tls://dns.alidns.com tls://dot.pub
 [/guduodata.com/]tls://dns.alidns.com tls://dot.pub
@@ -24928,7 +24973,6 @@
 [/gxcounty.com/]tls://dns.alidns.com tls://dot.pub
 [/gxcw.com/]tls://dns.alidns.com tls://dot.pub
 [/gxdahua.com/]tls://dns.alidns.com tls://dot.pub
-[/gxdianhua.com/]tls://dns.alidns.com tls://dot.pub
 [/gxdmw.com/]tls://dns.alidns.com tls://dot.pub
 [/gxdong.com/]tls://dns.alidns.com tls://dot.pub
 [/gxeqx.com/]tls://dns.alidns.com tls://dot.pub
@@ -27893,6 +27937,7 @@
 [/htranslate.com/]tls://dns.alidns.com tls://dot.pub
 [/htsc.com/]tls://dns.alidns.com tls://dot.pub
 [/htsec.com/]tls://dns.alidns.com tls://dot.pub
+[/htsham.com/]tls://dns.alidns.com tls://dot.pub
 [/htths.com/]tls://dns.alidns.com tls://dot.pub
 [/httingshu.com/]tls://dns.alidns.com tls://dot.pub
 [/httpcanary.com/]tls://dns.alidns.com tls://dot.pub
@@ -28748,6 +28793,7 @@
 [/hxsme.org/]tls://dns.alidns.com tls://dot.pub
 [/hxstrive.com/]tls://dns.alidns.com tls://dot.pub
 [/hxtk.com/]tls://dns.alidns.com tls://dot.pub
+[/hxtrip.com/]tls://dns.alidns.com tls://dot.pub
 [/hxwglm.com/]tls://dns.alidns.com tls://dot.pub
 [/hxxkw.org/]tls://dns.alidns.com tls://dot.pub
 [/hxxl6.com/]tls://dns.alidns.com tls://dot.pub
@@ -30618,9 +30664,12 @@
 [/ishuqi.com/]tls://dns.alidns.com tls://dot.pub
 [/ishuquge.com/]tls://dns.alidns.com tls://dot.pub
 [/ishuquge.la/]tls://dns.alidns.com tls://dot.pub
+[/ishuquge.org/]tls://dns.alidns.com tls://dot.pub
 [/isigu.com/]tls://dns.alidns.com tls://dot.pub
 [/isilent.me/]tls://dns.alidns.com tls://dot.pub
 [/isilicontech.com/]tls://dns.alidns.com tls://dot.pub
+[/isiluke.net/]tls://dns.alidns.com tls://dot.pub
+[/isiluke.org/]tls://dns.alidns.com tls://dot.pub
 [/isinosig.com/]tls://dns.alidns.com tls://dot.pub
 [/isixiang.com/]tls://dns.alidns.com tls://dot.pub
 [/isixue.com/]tls://dns.alidns.com tls://dot.pub
@@ -31012,6 +31061,7 @@
 [/ixpub.net/]tls://dns.alidns.com tls://dot.pub
 [/ixs.la/]tls://dns.alidns.com tls://dot.pub
 [/ixsch.com/]tls://dns.alidns.com tls://dot.pub
+[/ixuanshu.net/]tls://dns.alidns.com tls://dot.pub
 [/ixudao.com/]tls://dns.alidns.com tls://dot.pub
 [/ixueshu.com/]tls://dns.alidns.com tls://dot.pub
 [/ixueyi.com/]tls://dns.alidns.com tls://dot.pub
@@ -32054,7 +32104,6 @@
 [/jingme.net/]tls://dns.alidns.com tls://dot.pub
 [/jingmeiti.com/]tls://dns.alidns.com tls://dot.pub
 [/jingmen.com/]tls://dns.alidns.com tls://dot.pub
-[/jingmiuyyds.com/]tls://dns.alidns.com tls://dot.pub
 [/jingniukeji.com/]tls://dns.alidns.com tls://dot.pub
 [/jingoal.com/]tls://dns.alidns.com tls://dot.pub
 [/jingos.com/]tls://dns.alidns.com tls://dot.pub
@@ -33364,6 +33413,7 @@
 [/jwview.com/]tls://dns.alidns.com tls://dot.pub
 [/jwwey.com/]tls://dns.alidns.com tls://dot.pub
 [/jwyun.net/]tls://dns.alidns.com tls://dot.pub
+[/jwzhn.com/]tls://dns.alidns.com tls://dot.pub
 [/jx-bank.com/]tls://dns.alidns.com tls://dot.pub
 [/jx-lhmy.com/]tls://dns.alidns.com tls://dot.pub
 [/jx-nc.com/]tls://dns.alidns.com tls://dot.pub
@@ -33403,6 +33453,7 @@
 [/jxgcxy.net/]tls://dns.alidns.com tls://dot.pub
 [/jxgdw.com/]tls://dns.alidns.com tls://dot.pub
 [/jxgtzxc.com/]tls://dns.alidns.com tls://dot.pub
+[/jxgxlc.com/]tls://dns.alidns.com tls://dot.pub
 [/jxhyshiye.com/]tls://dns.alidns.com tls://dot.pub
 [/jxiaolan.com/]tls://dns.alidns.com tls://dot.pub
 [/jxicloud.com/]tls://dns.alidns.com tls://dot.pub
@@ -35164,6 +35215,7 @@
 [/lailook.net/]tls://dns.alidns.com tls://dot.pub
 [/laima-tech.com/]tls://dns.alidns.com tls://dot.pub
 [/laimaidi.com/]tls://dns.alidns.com tls://dot.pub
+[/laimanhua8.com/]tls://dns.alidns.com tls://dot.pub
 [/lainzy.net/]tls://dns.alidns.com tls://dot.pub
 [/laiqi.net/]tls://dns.alidns.com tls://dot.pub
 [/laiqukankan.com/]tls://dns.alidns.com tls://dot.pub
@@ -36167,7 +36219,6 @@
 [/licstar.net/]tls://dns.alidns.com tls://dot.pub
 [/lidakang.com/]tls://dns.alidns.com tls://dot.pub
 [/lidazhuang.com/]tls://dns.alidns.com tls://dot.pub
-[/lidecloud.com/]tls://dns.alidns.com tls://dot.pub
 [/lidepower.com/]tls://dns.alidns.com tls://dot.pub
 [/lidewen.com/]tls://dns.alidns.com tls://dot.pub
 [/lidihuo.com/]tls://dns.alidns.com tls://dot.pub
@@ -36604,6 +36655,7 @@
 [/liuchuo.net/]tls://dns.alidns.com tls://dot.pub
 [/liudanking.com/]tls://dns.alidns.com tls://dot.pub
 [/liudatxt.com/]tls://dns.alidns.com tls://dot.pub
+[/liudatxt.org/]tls://dns.alidns.com tls://dot.pub
 [/liudon.org/]tls://dns.alidns.com tls://dot.pub
 [/liudu.com/]tls://dns.alidns.com tls://dot.pub
 [/liugejava.com/]tls://dns.alidns.com tls://dot.pub
@@ -38117,7 +38169,6 @@
 [/manjiwang.com/]tls://dns.alidns.com tls://dot.pub
 [/manlaxy.com/]tls://dns.alidns.com tls://dot.pub
 [/manlinggame.com/]tls://dns.alidns.com tls://dot.pub
-[/manlongye.com/]tls://dns.alidns.com tls://dot.pub
 [/manluoni.com/]tls://dns.alidns.com tls://dot.pub
 [/manluotuo.com/]tls://dns.alidns.com tls://dot.pub
 [/manmanapp.com/]tls://dns.alidns.com tls://dot.pub
@@ -38339,6 +38390,7 @@
 [/mayiwsk.com/]tls://dns.alidns.com tls://dot.pub
 [/mayiyx.com/]tls://dns.alidns.com tls://dot.pub
 [/mayizhuanlan.com/]tls://dns.alidns.com tls://dot.pub
+[/maylove2333.com/]tls://dns.alidns.com tls://dot.pub
 [/mayswind.net/]tls://dns.alidns.com tls://dot.pub
 [/maywant.com/]tls://dns.alidns.com tls://dot.pub
 [/maywonenergy.com/]tls://dns.alidns.com tls://dot.pub
@@ -38362,6 +38414,7 @@
 [/mbazl.com/]tls://dns.alidns.com tls://dot.pub
 [/mbb0760.com/]tls://dns.alidns.com tls://dot.pub
 [/mbcloud.com/]tls://dns.alidns.com tls://dot.pub
+[/mbgbook.com/]tls://dns.alidns.com tls://dot.pub
 [/mbgo.com/]tls://dns.alidns.com tls://dot.pub
 [/mbian.com/]tls://dns.alidns.com tls://dot.pub
 [/mbiaohui.com/]tls://dns.alidns.com tls://dot.pub
@@ -38489,6 +38542,7 @@
 [/meechao.com/]tls://dns.alidns.com tls://dot.pub
 [/meegoe.com/]tls://dns.alidns.com tls://dot.pub
 [/meeket.com/]tls://dns.alidns.com tls://dot.pub
+[/meeshow.com/]tls://dns.alidns.com tls://dot.pub
 [/meet99.com/]tls://dns.alidns.com tls://dot.pub
 [/meetfave.com/]tls://dns.alidns.com tls://dot.pub
 [/meethall.com/]tls://dns.alidns.com tls://dot.pub
@@ -38847,6 +38901,7 @@
 [/mgzgmyzz.com/]tls://dns.alidns.com tls://dot.pub
 [/mgzxzs.com/]tls://dns.alidns.com tls://dot.pub
 [/mh1234.com/]tls://dns.alidns.com tls://dot.pub
+[/mh160.cc/]tls://dns.alidns.com tls://dot.pub
 [/mh456.com/]tls://dns.alidns.com tls://dot.pub
 [/mh51.com/]tls://dns.alidns.com tls://dot.pub
 [/mh9.cc/]tls://dns.alidns.com tls://dot.pub
@@ -38927,6 +38982,7 @@
 [/miaoshou.com/]tls://dns.alidns.com tls://dot.pub
 [/miaoshou.net/]tls://dns.alidns.com tls://dot.pub
 [/miaoshoucdn.com/]tls://dns.alidns.com tls://dot.pub
+[/miaoshu5.cc/]tls://dns.alidns.com tls://dot.pub
 [/miaoshuwu.com/]tls://dns.alidns.com tls://dot.pub
 [/miaoshuzhai.com/]tls://dns.alidns.com tls://dot.pub
 [/miaoshuzhai.net/]tls://dns.alidns.com tls://dot.pub
@@ -40001,6 +40057,7 @@
 [/mtzqb.com/]tls://dns.alidns.com tls://dot.pub
 [/mtzuichen.com/]tls://dns.alidns.com tls://dot.pub
 [/mtzxgf.com/]tls://dns.alidns.com tls://dot.pub
+[/mu8.net/]tls://dns.alidns.com tls://dot.pub
 [/muaing.com/]tls://dns.alidns.com tls://dot.pub
 [/mubanjianli.com/]tls://dns.alidns.com tls://dot.pub
 [/mubanwan.com/]tls://dns.alidns.com tls://dot.pub
@@ -41392,6 +41449,7 @@
 [/noposion.com/]tls://dns.alidns.com tls://dot.pub
 [/nor-land.com/]tls://dns.alidns.com tls://dot.pub
 [/nordfxs.com/]tls://dns.alidns.com tls://dot.pub
+[/nordicic.com/]tls://dns.alidns.com tls://dot.pub
 [/nordicways.com/]tls://dns.alidns.com tls://dot.pub
 [/nordikr.com/]tls://dns.alidns.com tls://dot.pub
 [/nordritools.com/]tls://dns.alidns.com tls://dot.pub
@@ -41563,8 +41621,10 @@
 [/nullno.com/]tls://dns.alidns.com tls://dot.pub
 [/num1dns.com/]tls://dns.alidns.com tls://dot.pub
 [/nunaios.com/]tls://dns.alidns.com tls://dot.pub
+[/nunxhv.com/]tls://dns.alidns.com tls://dot.pub
 [/nuobeiliao.com/]tls://dns.alidns.com tls://dot.pub
 [/nuobz.com/]tls://dns.alidns.com tls://dot.pub
+[/nuocdn.com/]tls://dns.alidns.com tls://dot.pub
 [/nuodefund.com/]tls://dns.alidns.com tls://dot.pub
 [/nuoder.com/]tls://dns.alidns.com tls://dot.pub
 [/nuofanpay.com/]tls://dns.alidns.com tls://dot.pub
@@ -42667,7 +42727,6 @@
 [/parduscycle.com/]tls://dns.alidns.com tls://dot.pub
 [/parentshk.com/]tls://dns.alidns.com tls://dot.pub
 [/paris-girafe.com/]tls://dns.alidns.com tls://dot.pub
-[/paris-sengfu.net/]tls://dns.alidns.com tls://dot.pub
 [/parkbees.com/]tls://dns.alidns.com tls://dot.pub
 [/parkblop.com/]tls://dns.alidns.com tls://dot.pub
 [/parkchina.net/]tls://dns.alidns.com tls://dot.pub
@@ -43457,6 +43516,7 @@
 [/podfest.tech/]tls://dns.alidns.com tls://dot.pub
 [/podinns.com/]tls://dns.alidns.com tls://dot.pub
 [/podjiasu.org/]tls://dns.alidns.com tls://dot.pub
+[/podunjiasu.com/]tls://dns.alidns.com tls://dot.pub
 [/poem88.com/]tls://dns.alidns.com tls://dot.pub
 [/poemaster.com/]tls://dns.alidns.com tls://dot.pub
 [/poemfk.com/]tls://dns.alidns.com tls://dot.pub
@@ -44016,6 +44076,7 @@
 [/qbjrxs.com/]tls://dns.alidns.com tls://dot.pub
 [/qbox.me/]tls://dns.alidns.com tls://dot.pub
 [/qbox.net/]tls://dns.alidns.com tls://dot.pub
+[/qbtxt.net/]tls://dns.alidns.com tls://dot.pub
 [/qbview.com/]tls://dns.alidns.com tls://dot.pub
 [/qbxz.com/]tls://dns.alidns.com tls://dot.pub
 [/qc-hr.com/]tls://dns.alidns.com tls://dot.pub
@@ -44640,7 +44701,6 @@
 [/qingting123.com/]tls://dns.alidns.com tls://dot.pub
 [/qingtingfm.com/]tls://dns.alidns.com tls://dot.pub
 [/qingtingip.com/]tls://dns.alidns.com tls://dot.pub
-[/qingtuan.tech/]tls://dns.alidns.com tls://dot.pub
 [/qinguanjia.com/]tls://dns.alidns.com tls://dot.pub
 [/qingwawa.com/]tls://dns.alidns.com tls://dot.pub
 [/qingwk.com/]tls://dns.alidns.com tls://dot.pub
@@ -44760,6 +44820,7 @@
 [/qiushile.com/]tls://dns.alidns.com tls://dot.pub
 [/qiushiwl.com/]tls://dns.alidns.com tls://dot.pub
 [/qiushu.cc/]tls://dns.alidns.com tls://dot.pub
+[/qiushu.info/]tls://dns.alidns.com tls://dot.pub
 [/qiushuzw.com/]tls://dns.alidns.com tls://dot.pub
 [/qiusuoge.com/]tls://dns.alidns.com tls://dot.pub
 [/qiutianaimeili.com/]tls://dns.alidns.com tls://dot.pub
@@ -44919,6 +44980,7 @@
 [/qmuiteam.com/]tls://dns.alidns.com tls://dot.pub
 [/qmwtp.com/]tls://dns.alidns.com tls://dot.pub
 [/qmwyy.com/]tls://dns.alidns.com tls://dot.pub
+[/qmxq.cc/]tls://dns.alidns.com tls://dot.pub
 [/qmyq.com/]tls://dns.alidns.com tls://dot.pub
 [/qmz5.com/]tls://dns.alidns.com tls://dot.pub
 [/qmzs.com/]tls://dns.alidns.com tls://dot.pub
@@ -45143,6 +45205,7 @@
 [/qt-ly.com/]tls://dns.alidns.com tls://dot.pub
 [/qt119.com/]tls://dns.alidns.com tls://dot.pub
 [/qt56yun.com/]tls://dns.alidns.com tls://dot.pub
+[/qt6.com/]tls://dns.alidns.com tls://dot.pub
 [/qt86.com/]tls://dns.alidns.com tls://dot.pub
 [/qtav.org/]tls://dns.alidns.com tls://dot.pub
 [/qtbig.com/]tls://dns.alidns.com tls://dot.pub
@@ -45407,6 +45470,7 @@
 [/qushiw.com/]tls://dns.alidns.com tls://dot.pub
 [/qushixi.net/]tls://dns.alidns.com tls://dot.pub
 [/qushoumiao.com/]tls://dns.alidns.com tls://dot.pub
+[/qushuba.net/]tls://dns.alidns.com tls://dot.pub
 [/qutaiwan.com/]tls://dns.alidns.com tls://dot.pub
 [/qutanme.com/]tls://dns.alidns.com tls://dot.pub
 [/qutaojiao.com/]tls://dns.alidns.com tls://dot.pub
@@ -45655,7 +45719,6 @@
 [/ramadaplaza-ovwh.com/]tls://dns.alidns.com tls://dot.pub
 [/ramboplay.com/]tls://dns.alidns.com tls://dot.pub
 [/ramostear.com/]tls://dns.alidns.com tls://dot.pub
-[/ran10.com/]tls://dns.alidns.com tls://dot.pub
 [/rancat.im/]tls://dns.alidns.com tls://dot.pub
 [/random-online.com/]tls://dns.alidns.com tls://dot.pub
 [/ranfenghd.com/]tls://dns.alidns.com tls://dot.pub
@@ -45673,6 +45736,7 @@
 [/ranzhi.net/]tls://dns.alidns.com tls://dot.pub
 [/ranzhi.org/]tls://dns.alidns.com tls://dot.pub
 [/raoke.net/]tls://dns.alidns.com tls://dot.pub
+[/raolmsc.com/]tls://dns.alidns.com tls://dot.pub
 [/raonie.com/]tls://dns.alidns.com tls://dot.pub
 [/raorao.com/]tls://dns.alidns.com tls://dot.pub
 [/rap-pro.com/]tls://dns.alidns.com tls://dot.pub
@@ -46437,6 +46501,7 @@
 [/rubaoo.com/]tls://dns.alidns.com tls://dot.pub
 [/ruby-china.com/]tls://dns.alidns.com tls://dot.pub
 [/rubyer.me/]tls://dns.alidns.com tls://dot.pub
+[/rucedu.net/]tls://dns.alidns.com tls://dot.pub
 [/ruchee.com/]tls://dns.alidns.com tls://dot.pub
 [/ruchu.club/]tls://dns.alidns.com tls://dot.pub
 [/rufei.ren/]tls://dns.alidns.com tls://dot.pub
@@ -46718,6 +46783,7 @@
 [/saiyou999.com/]tls://dns.alidns.com tls://dot.pub
 [/saiyouedu.net/]tls://dns.alidns.com tls://dot.pub
 [/saiyunyx.com/]tls://dns.alidns.com tls://dot.pub
+[/sakata.one/]tls://dns.alidns.com tls://dot.pub
 [/sakesi.club/]tls://dns.alidns.com tls://dot.pub
 [/sakura18183.love/]tls://dns.alidns.com tls://dot.pub
 [/sakway.com/]tls://dns.alidns.com tls://dot.pub
@@ -46877,6 +46943,8 @@
 [/sbk-h5.com/]tls://dns.alidns.com tls://dot.pub
 [/sbkh5.com/]tls://dns.alidns.com tls://dot.pub
 [/sbo8.com/]tls://dns.alidns.com tls://dot.pub
+[/sbooktxt.com/]tls://dns.alidns.com tls://dot.pub
+[/sbooktxt.xyz/]tls://dns.alidns.com tls://dot.pub
 [/sbr-info.com/]tls://dns.alidns.com tls://dot.pub
 [/sbrj.net/]tls://dns.alidns.com tls://dot.pub
 [/sbscn.com/]tls://dns.alidns.com tls://dot.pub
@@ -47074,6 +47142,7 @@
 [/scyongqin.com/]tls://dns.alidns.com tls://dot.pub
 [/scytyy.net/]tls://dns.alidns.com tls://dot.pub
 [/scyxcm.com/]tls://dns.alidns.com tls://dot.pub
+[/sczbsu.com/]tls://dns.alidns.com tls://dot.pub
 [/sczg.com/]tls://dns.alidns.com tls://dot.pub
 [/sczgzb.com/]tls://dns.alidns.com tls://dot.pub
 [/sczht.com/]tls://dns.alidns.com tls://dot.pub
@@ -48252,7 +48321,6 @@
 [/shixinhua.com/]tls://dns.alidns.com tls://dot.pub
 [/shixinyufang.com/]tls://dns.alidns.com tls://dot.pub
 [/shixiseng.com/]tls://dns.alidns.com tls://dot.pub
-[/shixiu.net/]tls://dns.alidns.com tls://dot.pub
 [/shixunsuda.com/]tls://dns.alidns.com tls://dot.pub
 [/shixunwl.com/]tls://dns.alidns.com tls://dot.pub
 [/shiyan.com/]tls://dns.alidns.com tls://dot.pub
@@ -48455,6 +48523,7 @@
 [/shqlty.com/]tls://dns.alidns.com tls://dot.pub
 [/shqmxx.com/]tls://dns.alidns.com tls://dot.pub
 [/shqswlgs.com/]tls://dns.alidns.com tls://dot.pub
+[/shqxjx.com/]tls://dns.alidns.com tls://dot.pub
 [/shqyg.com/]tls://dns.alidns.com tls://dot.pub
 [/shrail.com/]tls://dns.alidns.com tls://dot.pub
 [/shrca.org/]tls://dns.alidns.com tls://dot.pub
@@ -48674,6 +48743,7 @@
 [/shuquge.la/]tls://dns.alidns.com tls://dot.pub
 [/shuqun.com/]tls://dns.alidns.com tls://dot.pub
 [/shuquta.com/]tls://dns.alidns.com tls://dot.pub
+[/shuquzw.la/]tls://dns.alidns.com tls://dot.pub
 [/shuqw.com/]tls://dns.alidns.com tls://dot.pub
 [/shuren100.com/]tls://dns.alidns.com tls://dot.pub
 [/shushangyun.com/]tls://dns.alidns.com tls://dot.pub
@@ -48962,6 +49032,7 @@
 [/sinoevin.com/]tls://dns.alidns.com tls://dot.pub
 [/sinofo.com/]tls://dns.alidns.com tls://dot.pub
 [/sinofsx.com/]tls://dns.alidns.com tls://dot.pub
+[/sinogslb.net/]tls://dns.alidns.com tls://dot.pub
 [/sinogt.com/]tls://dns.alidns.com tls://dot.pub
 [/sinohb.com/]tls://dns.alidns.com tls://dot.pub
 [/sinohotel.com/]tls://dns.alidns.com tls://dot.pub
@@ -49290,6 +49361,7 @@
 [/slooti.com/]tls://dns.alidns.com tls://dot.pub
 [/slovakia-visacenter.com/]tls://dns.alidns.com tls://dot.pub
 [/slovenia-visacenter.com/]tls://dns.alidns.com tls://dot.pub
+[/slowdark.com/]tls://dns.alidns.com tls://dot.pub
 [/slpi1.com/]tls://dns.alidns.com tls://dot.pub
 [/slpmg.com/]tls://dns.alidns.com tls://dot.pub
 [/slrbs.com/]tls://dns.alidns.com tls://dot.pub
@@ -50280,6 +50352,7 @@
 [/stutimes.com/]tls://dns.alidns.com tls://dot.pub
 [/stvgame.com/]tls://dns.alidns.com tls://dot.pub
 [/stweiwang.com/]tls://dns.alidns.com tls://dot.pub
+[/stxsw.org/]tls://dns.alidns.com tls://dot.pub
 [/styadmin.com/]tls://dns.alidns.com tls://dot.pub
 [/stylar.hk/]tls://dns.alidns.com tls://dot.pub
 [/stylecdn.com/]tls://dns.alidns.com tls://dot.pub
@@ -51862,6 +51935,7 @@
 [/temaiku.com/]tls://dns.alidns.com tls://dot.pub
 [/temox.com/]tls://dns.alidns.com tls://dot.pub
 [/temp.im/]tls://dns.alidns.com tls://dot.pub
+[/tencdns.com/]tls://dns.alidns.com tls://dot.pub
 [/tencdns.net/]tls://dns.alidns.com tls://dot.pub
 [/tencent-blackboard.com/]tls://dns.alidns.com tls://dot.pub
 [/tencent-cloud.com/]tls://dns.alidns.com tls://dot.pub
@@ -53526,6 +53600,7 @@
 [/tusdk.com/]tls://dns.alidns.com tls://dot.pub
 [/tushare.org/]tls://dns.alidns.com tls://dot.pub
 [/tushare.pro/]tls://dns.alidns.com tls://dot.pub
+[/tushencn.com/]tls://dns.alidns.com tls://dot.pub
 [/tusholdings.com/]tls://dns.alidns.com tls://dot.pub
 [/tushu001.com/]tls://dns.alidns.com tls://dot.pub
 [/tushu007.com/]tls://dns.alidns.com tls://dot.pub
@@ -53588,6 +53663,7 @@
 [/tv002.com/]tls://dns.alidns.com tls://dot.pub
 [/tv189.com/]tls://dns.alidns.com tls://dot.pub
 [/tv432.com/]tls://dns.alidns.com tls://dot.pub
+[/tv6u8m.com/]tls://dns.alidns.com tls://dot.pub
 [/tvandnet.com/]tls://dns.alidns.com tls://dot.pub
 [/tvapk.com/]tls://dns.alidns.com tls://dot.pub
 [/tvapk.net/]tls://dns.alidns.com tls://dot.pub
@@ -54115,6 +54191,7 @@
 [/umengcloud.com/]tls://dns.alidns.com tls://dot.pub
 [/umenglog.com/]tls://dns.alidns.com tls://dot.pub
 [/umetrip.com/]tls://dns.alidns.com tls://dot.pub
+[/umhejot.com/]tls://dns.alidns.com tls://dot.pub
 [/umi.im/]tls://dns.alidns.com tls://dot.pub
 [/umihome.com/]tls://dns.alidns.com tls://dot.pub
 [/umilu.com/]tls://dns.alidns.com tls://dot.pub
@@ -54987,6 +55064,7 @@
 [/vkehu.com/]tls://dns.alidns.com tls://dot.pub
 [/vkelai.com/]tls://dns.alidns.com tls://dot.pub
 [/vkemai.com/]tls://dns.alidns.com tls://dot.pub
+[/vklaua.com/]tls://dns.alidns.com tls://dot.pub
 [/vkoolhf.com/]tls://dns.alidns.com tls://dot.pub
 [/vksoft.com/]tls://dns.alidns.com tls://dot.pub
 [/vku6.com/]tls://dns.alidns.com tls://dot.pub
@@ -55766,6 +55844,7 @@
 [/wb521.net/]tls://dns.alidns.com tls://dot.pub
 [/wb699.com/]tls://dns.alidns.com tls://dot.pub
 [/wbangdan.com/]tls://dns.alidns.com tls://dot.pub
+[/wbbcdn.com/]tls://dns.alidns.com tls://dot.pub
 [/wbby.net/]tls://dns.alidns.com tls://dot.pub
 [/wbcm55.com/]tls://dns.alidns.com tls://dot.pub
 [/wbdacdn.com/]tls://dns.alidns.com tls://dot.pub
@@ -56364,6 +56443,7 @@
 [/wenxuee.com/]tls://dns.alidns.com tls://dot.pub
 [/wenxuem.com/]tls://dns.alidns.com tls://dot.pub
 [/wenxuemm.com/]tls://dns.alidns.com tls://dot.pub
+[/wenxuesk.org/]tls://dns.alidns.com tls://dot.pub
 [/wenxuetiandi.com/]tls://dns.alidns.com tls://dot.pub
 [/wenyijcc.com/]tls://dns.alidns.com tls://dot.pub
 [/wenyoutai.com/]tls://dns.alidns.com tls://dot.pub
@@ -56581,6 +56661,7 @@
 [/whgtgh.com/]tls://dns.alidns.com tls://dot.pub
 [/whguo.com/]tls://dns.alidns.com tls://dot.pub
 [/whgwbn.net/]tls://dns.alidns.com tls://dot.pub
+[/whhaxfjc.com/]tls://dns.alidns.com tls://dot.pub
 [/whhbxh.org/]tls://dns.alidns.com tls://dot.pub
 [/whhdcz.com/]tls://dns.alidns.com tls://dot.pub
 [/whhdgk.com/]tls://dns.alidns.com tls://dot.pub
@@ -57203,6 +57284,7 @@
 [/wodedagong.com/]tls://dns.alidns.com tls://dot.pub
 [/wodemeitu.com/]tls://dns.alidns.com tls://dot.pub
 [/wodeoffice.com/]tls://dns.alidns.com tls://dot.pub
+[/wodescw.com/]tls://dns.alidns.com tls://dot.pub
 [/wodeshebao.com/]tls://dns.alidns.com tls://dot.pub
 [/wodiancan.net/]tls://dns.alidns.com tls://dot.pub
 [/wodidashi.com/]tls://dns.alidns.com tls://dot.pub
@@ -57341,6 +57423,7 @@
 [/worldh5.com/]tls://dns.alidns.com tls://dot.pub
 [/worldhello.net/]tls://dns.alidns.com tls://dot.pub
 [/worldinout.com/]tls://dns.alidns.com tls://dot.pub
+[/worldjiasu.com/]tls://dns.alidns.com tls://dot.pub
 [/worldmall365.com/]tls://dns.alidns.com tls://dot.pub
 [/worldmr.net/]tls://dns.alidns.com tls://dot.pub
 [/worldmsports.com/]tls://dns.alidns.com tls://dot.pub
@@ -57608,6 +57691,7 @@
 [/wubx.net/]tls://dns.alidns.com tls://dot.pub
 [/wucaiabc.com/]tls://dns.alidns.com tls://dot.pub
 [/wuchenxu.com/]tls://dns.alidns.com tls://dot.pub
+[/wucuoxs.com/]tls://dns.alidns.com tls://dot.pub
 [/wucuozi.com/]tls://dns.alidns.com tls://dot.pub
 [/wuczfj.com/]tls://dns.alidns.com tls://dot.pub
 [/wudage.com/]tls://dns.alidns.com tls://dot.pub
@@ -57644,7 +57728,6 @@
 [/wuhanfuke120.com/]tls://dns.alidns.com tls://dot.pub
 [/wuhanfukeyy.com/]tls://dns.alidns.com tls://dot.pub
 [/wuhanins.com/]tls://dns.alidns.com tls://dot.pub
-[/wuhanjiaojing.com/]tls://dns.alidns.com tls://dot.pub
 [/wuhanjingce.com/]tls://dns.alidns.com tls://dot.pub
 [/wuhankb.com/]tls://dns.alidns.com tls://dot.pub
 [/wuhanlengji.com/]tls://dns.alidns.com tls://dot.pub
@@ -57689,6 +57772,7 @@
 [/wujinpp.com/]tls://dns.alidns.com tls://dot.pub
 [/wujiok.com/]tls://dns.alidns.com tls://dot.pub
 [/wujixiaoshuo.com/]tls://dns.alidns.com tls://dot.pub
+[/wujixsw.info/]tls://dns.alidns.com tls://dot.pub
 [/wukong.com/]tls://dns.alidns.com tls://dot.pub
 [/wukong.la/]tls://dns.alidns.com tls://dot.pub
 [/wukongapi.com/]tls://dns.alidns.com tls://dot.pub
@@ -58047,6 +58131,7 @@
 [/wztf121.com/]tls://dns.alidns.com tls://dot.pub
 [/wzwmw.com/]tls://dns.alidns.com tls://dot.pub
 [/wzwqs.com/]tls://dns.alidns.com tls://dot.pub
+[/wzxywj.com/]tls://dns.alidns.com tls://dot.pub
 [/wzyestar.com/]tls://dns.alidns.com tls://dot.pub
 [/wzyun.net/]tls://dns.alidns.com tls://dot.pub
 [/wzz180809.net/]tls://dns.alidns.com tls://dot.pub
@@ -58183,7 +58268,6 @@
 [/xazzp.com/]tls://dns.alidns.com tls://dot.pub
 [/xazzs.com/]tls://dns.alidns.com tls://dot.pub
 [/xb.app/]tls://dns.alidns.com tls://dot.pub
-[/xb21cn.com/]tls://dns.alidns.com tls://dot.pub
 [/xb2s.com/]tls://dns.alidns.com tls://dot.pub
 [/xbaofun.com/]tls://dns.alidns.com tls://dot.pub
 [/xbase.cloud/]tls://dns.alidns.com tls://dot.pub
@@ -58208,6 +58292,7 @@
 [/xbiquge.la/]tls://dns.alidns.com tls://dot.pub
 [/xbiquge.tw/]tls://dns.alidns.com tls://dot.pub
 [/xbiqugew.com/]tls://dns.alidns.com tls://dot.pub
+[/xbiqugu.info/]tls://dns.alidns.com tls://dot.pub
 [/xbiqukan.com/]tls://dns.alidns.com tls://dot.pub
 [/xbiquwx.la/]tls://dns.alidns.com tls://dot.pub
 [/xbirder.com/]tls://dns.alidns.com tls://dot.pub
@@ -59697,6 +59782,7 @@
 [/xl5dw.com/]tls://dns.alidns.com tls://dot.pub
 [/xl699.com/]tls://dns.alidns.com tls://dot.pub
 [/xlaaa.com/]tls://dns.alidns.com tls://dot.pub
+[/xlaidudu.net/]tls://dns.alidns.com tls://dot.pub
 [/xlbsoft.com/]tls://dns.alidns.com tls://dot.pub
 [/xlcfcyy.com/]tls://dns.alidns.com tls://dot.pub
 [/xlcidc.com/]tls://dns.alidns.com tls://dot.pub
@@ -59886,6 +59972,7 @@
 [/xn--nyqx2gbsm8u0b.com/]tls://dns.alidns.com tls://dot.pub
 [/xn--pbt1sj69ag8b.com/]tls://dns.alidns.com tls://dot.pub
 [/xn--q20av2y36ac54a.com/]tls://dns.alidns.com tls://dot.pub
+[/xn--qrq171dxpq.com/]tls://dns.alidns.com tls://dot.pub
 [/xn--ruqx2ez8em6ez9pv4l.com/]tls://dns.alidns.com tls://dot.pub
 [/xn--s4t325g.com/]tls://dns.alidns.com tls://dot.pub
 [/xn--tfr76a.xn--czr694b/]tls://dns.alidns.com tls://dot.pub
@@ -59972,6 +60059,7 @@
 [/xqckg.com/]tls://dns.alidns.com tls://dot.pub
 [/xqfunds.com/]tls://dns.alidns.com tls://dot.pub
 [/xqgmx.com/]tls://dns.alidns.com tls://dot.pub
+[/xqikuaiwx.com/]tls://dns.alidns.com tls://dot.pub
 [/xqipu.com/]tls://dns.alidns.com tls://dot.pub
 [/xqiushu.com/]tls://dns.alidns.com tls://dot.pub
 [/xqjmzc.com/]tls://dns.alidns.com tls://dot.pub
@@ -60125,6 +60213,7 @@
 [/xuanqun.com/]tls://dns.alidns.com tls://dot.pub
 [/xuanruanjian.com/]tls://dns.alidns.com tls://dot.pub
 [/xuanshu.com/]tls://dns.alidns.com tls://dot.pub
+[/xuanshu.org/]tls://dns.alidns.com tls://dot.pub
 [/xuansiwei.com/]tls://dns.alidns.com tls://dot.pub
 [/xuantaikeji.com/]tls://dns.alidns.com tls://dot.pub
 [/xuanwonainiu.com/]tls://dns.alidns.com tls://dot.pub
@@ -60738,6 +60827,7 @@
 [/yangqu.com/]tls://dns.alidns.com tls://dot.pub
 [/yangsam.com/]tls://dns.alidns.com tls://dot.pub
 [/yangshengliang.com/]tls://dns.alidns.com tls://dot.pub
+[/yangsihan.com/]tls://dns.alidns.com tls://dot.pub
 [/yangtaiapp.com/]tls://dns.alidns.com tls://dot.pub
 [/yangtengfei.com/]tls://dns.alidns.com tls://dot.pub
 [/yangtianb.com/]tls://dns.alidns.com tls://dot.pub
@@ -61123,7 +61213,6 @@
 [/yesky.com/]tls://dns.alidns.com tls://dot.pub
 [/yeslib.com/]tls://dns.alidns.com tls://dot.pub
 [/yeslicake.com/]tls://dns.alidns.com tls://dot.pub
-[/yesmryang.net/]tls://dns.alidns.com tls://dot.pub
 [/yesmyimg.com/]tls://dns.alidns.com tls://dot.pub
 [/yesmywatch.com/]tls://dns.alidns.com tls://dot.pub
 [/yesmywine.com/]tls://dns.alidns.com tls://dot.pub
@@ -63449,6 +63538,7 @@
 [/yy2169.com/]tls://dns.alidns.com tls://dot.pub
 [/yy2hd.com/]tls://dns.alidns.com tls://dot.pub
 [/yy4080.com/]tls://dns.alidns.com tls://dot.pub
+[/yy502.com/]tls://dns.alidns.com tls://dot.pub
 [/yy591.com/]tls://dns.alidns.com tls://dot.pub
 [/yy6.fun/]tls://dns.alidns.com tls://dot.pub
 [/yy6080.org/]tls://dns.alidns.com tls://dot.pub
@@ -63579,6 +63669,7 @@
 [/yzmcms.com/]tls://dns.alidns.com tls://dot.pub
 [/yzmcxx.com/]tls://dns.alidns.com tls://dot.pub
 [/yzmg.com/]tls://dns.alidns.com tls://dot.pub
+[/yzmhwy.com/]tls://dns.alidns.com tls://dot.pub
 [/yzmiao03.com/]tls://dns.alidns.com tls://dot.pub
 [/yzmoney.com/]tls://dns.alidns.com tls://dot.pub
 [/yznano.com/]tls://dns.alidns.com tls://dot.pub
@@ -63968,6 +64059,7 @@
 [/zgbjyx.com/]tls://dns.alidns.com tls://dot.pub
 [/zgbk.com/]tls://dns.alidns.com tls://dot.pub
 [/zgbmcl.com/]tls://dns.alidns.com tls://dot.pub
+[/zgbnt.com/]tls://dns.alidns.com tls://dot.pub
 [/zgboke.com/]tls://dns.alidns.com tls://dot.pub
 [/zgbywl.com/]tls://dns.alidns.com tls://dot.pub
 [/zgc-bigdata.org/]tls://dns.alidns.com tls://dot.pub
@@ -65143,6 +65235,7 @@
 [/zhyi828.com/]tls://dns.alidns.com tls://dot.pub
 [/zhyingxiao.com/]tls://dns.alidns.com tls://dot.pub
 [/zhyouliang.com/]tls://dns.alidns.com tls://dot.pub
+[/zhysgagag.com/]tls://dns.alidns.com tls://dot.pub
 [/zhyymall.com/]tls://dns.alidns.com tls://dot.pub
 [/zhyyz.com/]tls://dns.alidns.com tls://dot.pub
 [/zhzjw.net/]tls://dns.alidns.com tls://dot.pub
@@ -65660,6 +65753,7 @@
 [/zntxt.com/]tls://dns.alidns.com tls://dot.pub
 [/znvren.com/]tls://dns.alidns.com tls://dot.pub
 [/znwb.com/]tls://dns.alidns.com tls://dot.pub
+[/znxdxs.com/]tls://dns.alidns.com tls://dot.pub
 [/znxsw.com/]tls://dns.alidns.com tls://dot.pub
 [/znyp.com/]tls://dns.alidns.com tls://dot.pub
 [/znyseo.com/]tls://dns.alidns.com tls://dot.pub
@@ -66065,6 +66159,7 @@
 [/zuowen.com/]tls://dns.alidns.com tls://dot.pub
 [/zuowen8.com/]tls://dns.alidns.com tls://dot.pub
 [/zuowening.com/]tls://dns.alidns.com tls://dot.pub
+[/zuowenjing.com/]tls://dns.alidns.com tls://dot.pub
 [/zuowenjun.com/]tls://dns.alidns.com tls://dot.pub
 [/zuowenku.net/]tls://dns.alidns.com tls://dot.pub
 [/zuowenren.com/]tls://dns.alidns.com tls://dot.pub
@@ -66096,6 +66191,7 @@
 [/zuzhirenshi.com/]tls://dns.alidns.com tls://dot.pub
 [/zuzitech.com/]tls://dns.alidns.com tls://dot.pub
 [/zuzuche.com/]tls://dns.alidns.com tls://dot.pub
+[/zuzudc.com/]tls://dns.alidns.com tls://dot.pub
 [/zving.com/]tls://dns.alidns.com tls://dot.pub
 [/zvv.me/]tls://dns.alidns.com tls://dot.pub
 [/zw110.com/]tls://dns.alidns.com tls://dot.pub
