@@ -206,6 +206,7 @@ https://cloudflare-dns.com/dns-query
 [/027chuxun.com/]tls://dns.alidns.com tls://dot.pub
 [/027chwl.com/]tls://dns.alidns.com tls://dot.pub
 [/027cloud.com/]tls://dns.alidns.com tls://dot.pub
+[/027dir.com/]tls://dns.alidns.com tls://dot.pub
 [/027down.com/]tls://dns.alidns.com tls://dot.pub
 [/027eat.com/]tls://dns.alidns.com tls://dot.pub
 [/027hhl.com/]tls://dns.alidns.com tls://dot.pub
@@ -696,6 +697,7 @@ https://cloudflare-dns.com/dns-query
 [/1000phone.com/]tls://dns.alidns.com tls://dot.pub
 [/1000phone.net/]tls://dns.alidns.com tls://dot.pub
 [/1000plan.org/]tls://dns.alidns.com tls://dot.pub
+[/1000qm.vip/]tls://dns.alidns.com tls://dot.pub
 [/1000qoi.com/]tls://dns.alidns.com tls://dot.pub
 [/1000thinktank.com/]tls://dns.alidns.com tls://dot.pub
 [/1000tuan.com/]tls://dns.alidns.com tls://dot.pub
@@ -827,6 +829,8 @@ https://cloudflare-dns.com/dns-query
 [/1035.mobi/]tls://dns.alidns.com tls://dot.pub
 [/1040jy.com/]tls://dns.alidns.com tls://dot.pub
 [/10419.net/]tls://dns.alidns.com tls://dot.pub
+[/1050qm.com/]tls://dns.alidns.com tls://dot.pub
+[/10524am.com/]tls://dns.alidns.com tls://dot.pub
 [/105mr.com/]tls://dns.alidns.com tls://dot.pub
 [/106.com/]tls://dns.alidns.com tls://dot.pub
 [/10639888.com/]tls://dns.alidns.com tls://dot.pub
@@ -1420,6 +1424,7 @@ https://cloudflare-dns.com/dns-query
 [/16rd.com/]tls://dns.alidns.com tls://dot.pub
 [/16shouyou.com/]tls://dns.alidns.com tls://dot.pub
 [/16sucai.com/]tls://dns.alidns.com tls://dot.pub
+[/16type.com/]tls://dns.alidns.com tls://dot.pub
 [/16tz.com/]tls://dns.alidns.com tls://dot.pub
 [/16wl.cc/]tls://dns.alidns.com tls://dot.pub
 [/16xcw.com/]tls://dns.alidns.com tls://dot.pub
@@ -3866,6 +3871,7 @@ https://cloudflare-dns.com/dns-query
 [/51cir.com/]tls://dns.alidns.com tls://dot.pub
 [/51cjyy.com/]tls://dns.alidns.com tls://dot.pub
 [/51clc.com/]tls://dns.alidns.com tls://dot.pub
+[/51cmm.com/]tls://dns.alidns.com tls://dot.pub
 [/51cocoa.com/]tls://dns.alidns.com tls://dot.pub
 [/51code.com/]tls://dns.alidns.com tls://dot.pub
 [/51cok.com/]tls://dns.alidns.com tls://dot.pub
@@ -4377,7 +4383,6 @@ https://cloudflare-dns.com/dns-query
 [/521logo.com/]tls://dns.alidns.com tls://dot.pub
 [/521qw.com/]tls://dns.alidns.com tls://dot.pub
 [/521rmb.com/]tls://dns.alidns.com tls://dot.pub
-[/521ro.com/]tls://dns.alidns.com tls://dot.pub
 [/521szlx.com/]tls://dns.alidns.com tls://dot.pub
 [/521tieba.com/]tls://dns.alidns.com tls://dot.pub
 [/521u.com/]tls://dns.alidns.com tls://dot.pub
@@ -5415,6 +5420,7 @@ https://cloudflare-dns.com/dns-query
 [/6711.com/]tls://dns.alidns.com tls://dot.pub
 [/6711img.com/]tls://dns.alidns.com tls://dot.pub
 [/673m2f.com/]tls://dns.alidns.com tls://dot.pub
+[/6749044.cc/]tls://dns.alidns.com tls://dot.pub
 [/6760x.com/]tls://dns.alidns.com tls://dot.pub
 [/676z.com/]tls://dns.alidns.com tls://dot.pub
 [/6786666.com/]tls://dns.alidns.com tls://dot.pub
@@ -5589,6 +5595,7 @@ https://cloudflare-dns.com/dns-query
 [/7017k.com/]tls://dns.alidns.com tls://dot.pub
 [/701sou.com/]tls://dns.alidns.com tls://dot.pub
 [/703804.com/]tls://dns.alidns.com tls://dot.pub
+[/70524.com/]tls://dns.alidns.com tls://dot.pub
 [/7080edu.com/]tls://dns.alidns.com tls://dot.pub
 [/7082.com/]tls://dns.alidns.com tls://dot.pub
 [/70dh.com/]tls://dns.alidns.com tls://dot.pub
@@ -9796,10 +9803,12 @@ https://cloudflare-dns.com/dns-query
 [/awsdns-cn-20.biz/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-20.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-21.biz/]tls://dns.alidns.com tls://dot.pub
+[/awsdns-cn-22.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-24.com/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-24.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-28.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-29.biz/]tls://dns.alidns.com tls://dot.pub
+[/awsdns-cn-35.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-36.net/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-37.biz/]tls://dns.alidns.com tls://dot.pub
 [/awsdns-cn-37.net/]tls://dns.alidns.com tls://dot.pub
@@ -11970,7 +11979,6 @@ https://cloudflare-dns.com/dns-query
 [/blog.vive.com/]tls://dns.alidns.com tls://dot.pub
 [/blog007.com/]tls://dns.alidns.com tls://dot.pub
 [/blog120.com/]tls://dns.alidns.com tls://dot.pub
-[/blog1984.com/]tls://dns.alidns.com tls://dot.pub
 [/blogbus.com/]tls://dns.alidns.com tls://dot.pub
 [/blogchina.com/]tls://dns.alidns.com tls://dot.pub
 [/blogchinese.com/]tls://dns.alidns.com tls://dot.pub
@@ -12082,6 +12090,7 @@ https://cloudflare-dns.com/dns-query
 [/bnnnk.com/]tls://dns.alidns.com tls://dot.pub
 [/bnocode.com/]tls://dns.alidns.com tls://dot.pub
 [/bnqgsl.com/]tls://dns.alidns.com tls://dot.pub
+[/bntyh.com/]tls://dns.alidns.com tls://dot.pub
 [/bnupg.com/]tls://dns.alidns.com tls://dot.pub
 [/bnwin.com/]tls://dns.alidns.com tls://dot.pub
 [/bnxb.com/]tls://dns.alidns.com tls://dot.pub
@@ -12213,7 +12222,6 @@ https://cloudflare-dns.com/dns-query
 [/bonkee.net/]tls://dns.alidns.com tls://dot.pub
 [/bonnelivre.com/]tls://dns.alidns.com tls://dot.pub
 [/bonree.com/]tls://dns.alidns.com tls://dot.pub
-[/bonwai.com/]tls://dns.alidns.com tls://dot.pub
 [/boobooke.com/]tls://dns.alidns.com tls://dot.pub
 [/booea.com/]tls://dns.alidns.com tls://dot.pub
 [/booen.co/]tls://dns.alidns.com tls://dot.pub
@@ -15961,6 +15969,7 @@ https://cloudflare-dns.com/dns-query
 [/cjshipin.net/]tls://dns.alidns.com tls://dot.pub
 [/cjting.me/]tls://dns.alidns.com tls://dot.pub
 [/cjveg.com/]tls://dns.alidns.com tls://dot.pub
+[/cjwlb.com/]tls://dns.alidns.com tls://dot.pub
 [/cjx2.com/]tls://dns.alidns.com tls://dot.pub
 [/cjxz.com/]tls://dns.alidns.com tls://dot.pub
 [/cjyun.club/]tls://dns.alidns.com tls://dot.pub
@@ -17267,6 +17276,7 @@ https://cloudflare-dns.com/dns-query
 [/coshelper.com/]tls://dns.alidns.com tls://dot.pub
 [/coship.com/]tls://dns.alidns.com tls://dot.pub
 [/cosize.com/]tls://dns.alidns.com tls://dot.pub
+[/coslinic.com/]tls://dns.alidns.com tls://dot.pub
 [/cosmoplat.com/]tls://dns.alidns.com tls://dot.pub
 [/cosoar.com/]tls://dns.alidns.com tls://dot.pub
 [/cosplay8.com/]tls://dns.alidns.com tls://dot.pub
@@ -20648,6 +20658,7 @@ https://cloudflare-dns.com/dns-query
 [/dszw.net/]tls://dns.alidns.com tls://dot.pub
 [/dt-stor.com/]tls://dns.alidns.com tls://dot.pub
 [/dt123.net/]tls://dns.alidns.com tls://dot.pub
+[/dt830.com/]tls://dns.alidns.com tls://dot.pub
 [/dtcj.com/]tls://dns.alidns.com tls://dot.pub
 [/dtcms.net/]tls://dns.alidns.com tls://dot.pub
 [/dtcoalmine.com/]tls://dns.alidns.com tls://dot.pub
@@ -23406,7 +23417,6 @@ https://cloudflare-dns.com/dns-query
 [/ffasp.com/]tls://dns.alidns.com tls://dot.pub
 [/ffbon.com/]tls://dns.alidns.com tls://dot.pub
 [/ffcell.com/]tls://dns.alidns.com tls://dot.pub
-[/ffdns.net/]tls://dns.alidns.com tls://dot.pub
 [/ffeeii.com/]tls://dns.alidns.com tls://dot.pub
 [/ffepower.com/]tls://dns.alidns.com tls://dot.pub
 [/ffff.cc/]tls://dns.alidns.com tls://dot.pub
@@ -23444,7 +23454,6 @@ https://cloudflare-dns.com/dns-query
 [/fh86.com/]tls://dns.alidns.com tls://dot.pub
 [/fhb971.com/]tls://dns.alidns.com tls://dot.pub
 [/fhd001.com/]tls://dns.alidns.com tls://dot.pub
-[/fhdjh.com/]tls://dns.alidns.com tls://dot.pub
 [/fheb-six.com/]tls://dns.alidns.com tls://dot.pub
 [/fhldns.com/]tls://dns.alidns.com tls://dot.pub
 [/fhlun.com/]tls://dns.alidns.com tls://dot.pub
@@ -23676,7 +23685,6 @@ https://cloudflare-dns.com/dns-query
 [/fkyuer.com/]tls://dns.alidns.com tls://dot.pub
 [/fkyun.com/]tls://dns.alidns.com tls://dot.pub
 [/fkyxt.com/]tls://dns.alidns.com tls://dot.pub
-[/fkzgz.com/]tls://dns.alidns.com tls://dot.pub
 [/fl-game.net/]tls://dns.alidns.com tls://dot.pub
 [/fl0632.com/]tls://dns.alidns.com tls://dot.pub
 [/fl160.com/]tls://dns.alidns.com tls://dot.pub
@@ -23789,6 +23797,7 @@ https://cloudflare-dns.com/dns-query
 [/fn-tech.com/]tls://dns.alidns.com tls://dot.pub
 [/fn.com/]tls://dns.alidns.com tls://dot.pub
 [/fn01.vip/]tls://dns.alidns.com tls://dot.pub
+[/fn03.vip/]tls://dns.alidns.com tls://dot.pub
 [/fnconn.com/]tls://dns.alidns.com tls://dot.pub
 [/fnetlink.com/]tls://dns.alidns.com tls://dot.pub
 [/fnf-foods.com/]tls://dns.alidns.com tls://dot.pub
@@ -24523,6 +24532,7 @@ https://cloudflare-dns.com/dns-query
 [/g3voip.com/]tls://dns.alidns.com tls://dot.pub
 [/g4weixin.com/]tls://dns.alidns.com tls://dot.pub
 [/g5h4.com/]tls://dns.alidns.com tls://dot.pub
+[/g6hmfy1ttg.com/]tls://dns.alidns.com tls://dot.pub
 [/g72.com/]tls://dns.alidns.com tls://dot.pub
 [/g77775555.com/]tls://dns.alidns.com tls://dot.pub
 [/g77776666.com/]tls://dns.alidns.com tls://dot.pub
@@ -24826,6 +24836,7 @@ https://cloudflare-dns.com/dns-query
 [/gashr.com/]tls://dns.alidns.com tls://dot.pub
 [/gaspeedup.com/]tls://dns.alidns.com tls://dot.pub
 [/gasshow.com/]tls://dns.alidns.com tls://dot.pub
+[/gastronomy.gov.mo/]tls://dns.alidns.com tls://dot.pub
 [/gaszx.com/]tls://dns.alidns.com tls://dot.pub
 [/gatclub.com/]tls://dns.alidns.com tls://dot.pub
 [/gate-dhgames.com/]tls://dns.alidns.com tls://dot.pub
@@ -25166,6 +25177,7 @@ https://cloudflare-dns.com/dns-query
 [/gentags.com/]tls://dns.alidns.com tls://dot.pub
 [/gentags.net/]tls://dns.alidns.com tls://dot.pub
 [/genuway.com/]tls://dns.alidns.com tls://dot.pub
+[/geo-compass.com/]tls://dns.alidns.com tls://dot.pub
 [/geo-prism-cn.htcsense.com/]tls://dns.alidns.com tls://dot.pub
 [/geo-prism.htcsense.com/]tls://dns.alidns.com tls://dot.pub
 [/geo.kaspersky.com/]tls://dns.alidns.com tls://dot.pub
@@ -25461,7 +25473,6 @@ https://cloudflare-dns.com/dns-query
 [/gk99.com/]tls://dns.alidns.com tls://dot.pub
 [/gkcyc.com/]tls://dns.alidns.com tls://dot.pub
 [/gkczgs.com/]tls://dns.alidns.com tls://dot.pub
-[/gkdgz.com/]tls://dns.alidns.com tls://dot.pub
 [/gkfb.com/]tls://dns.alidns.com tls://dot.pub
 [/gkkxd.com/]tls://dns.alidns.com tls://dot.pub
 [/gklx.net/]tls://dns.alidns.com tls://dot.pub
@@ -28791,6 +28802,7 @@ https://cloudflare-dns.com/dns-query
 [/hirossz.com/]tls://dns.alidns.com tls://dot.pub
 [/hirtk.com/]tls://dns.alidns.com tls://dot.pub
 [/his.sh/]tls://dns.alidns.com tls://dot.pub
+[/hisavana.com/]tls://dns.alidns.com tls://dot.pub
 [/hiscene.com/]tls://dns.alidns.com tls://dot.pub
 [/hisdnoc.com/]tls://dns.alidns.com tls://dot.pub
 [/hisense-home.com/]tls://dns.alidns.com tls://dot.pub
@@ -29808,6 +29820,7 @@ https://cloudflare-dns.com/dns-query
 [/ht-tech.com/]tls://dns.alidns.com tls://dot.pub
 [/ht09ff.xyz/]tls://dns.alidns.com tls://dot.pub
 [/ht72mm.xyz/]tls://dns.alidns.com tls://dot.pub
+[/ht73mm.xyz/]tls://dns.alidns.com tls://dot.pub
 [/ht88.com/]tls://dns.alidns.com tls://dot.pub
 [/ht9.com/]tls://dns.alidns.com tls://dot.pub
 [/htanwang.com/]tls://dns.alidns.com tls://dot.pub
@@ -30248,6 +30261,7 @@ https://cloudflare-dns.com/dns-query
 [/huenhuenfood.com/]tls://dns.alidns.com tls://dot.pub
 [/hufangkeji.com/]tls://dns.alidns.com tls://dot.pub
 [/hufangyun.com/]tls://dns.alidns.com tls://dot.pub
+[/hufe.cc/]tls://dns.alidns.com tls://dot.pub
 [/hugd.com/]tls://dns.alidns.com tls://dot.pub
 [/hugecdn168.com/]tls://dns.alidns.com tls://dot.pub
 [/hugeland.com/]tls://dns.alidns.com tls://dot.pub
@@ -32557,6 +32571,7 @@ https://cloudflare-dns.com/dns-query
 [/ipinyou.com/]tls://dns.alidns.com tls://dot.pub
 [/ipip.net/]tls://dns.alidns.com tls://dot.pub
 [/ipip5.com/]tls://dns.alidns.com tls://dot.pub
+[/ipjingling.com/]tls://dns.alidns.com tls://dot.pub
 [/ipjisuanqi.com/]tls://dns.alidns.com tls://dot.pub
 [/ipktv.com/]tls://dns.alidns.com tls://dot.pub
 [/ipku.com/]tls://dns.alidns.com tls://dot.pub
@@ -32592,6 +32607,7 @@ https://cloudflare-dns.com/dns-query
 [/ipssh.net/]tls://dns.alidns.com tls://dot.pub
 [/iptalent.com/]tls://dns.alidns.com tls://dot.pub
 [/iptrm.com/]tls://dns.alidns.com tls://dot.pub
+[/ipts.com/]tls://dns.alidns.com tls://dot.pub
 [/ipuu.net/]tls://dns.alidns.com tls://dot.pub
 [/ipv4.host/]tls://dns.alidns.com tls://dot.pub
 [/ipv6dns.com/]tls://dns.alidns.com tls://dot.pub
@@ -33897,6 +33913,7 @@ https://cloudflare-dns.com/dns-query
 [/jianyujiasu.com/]tls://dns.alidns.com tls://dot.pub
 [/jianyuweb.com/]tls://dns.alidns.com tls://dot.pub
 [/jianyv.com/]tls://dns.alidns.com tls://dot.pub
+[/jianzeppt.com/]tls://dns.alidns.com tls://dot.pub
 [/jianzhan110.com/]tls://dns.alidns.com tls://dot.pub
 [/jianzhan580.com/]tls://dns.alidns.com tls://dot.pub
 [/jianzhanbao.net/]tls://dns.alidns.com tls://dot.pub
@@ -34769,6 +34786,7 @@ https://cloudflare-dns.com/dns-query
 [/jkzhilu.com/]tls://dns.alidns.com tls://dot.pub
 [/jkzl.com/]tls://dns.alidns.com tls://dot.pub
 [/jl0435.com/]tls://dns.alidns.com tls://dot.pub
+[/jl1mall.com/]tls://dns.alidns.com tls://dot.pub
 [/jl54.org/]tls://dns.alidns.com tls://dot.pub
 [/jl7y.com/]tls://dns.alidns.com tls://dot.pub
 [/jladi.com/]tls://dns.alidns.com tls://dot.pub
@@ -35909,6 +35927,7 @@ https://cloudflare-dns.com/dns-query
 [/jzkjjt.com/]tls://dns.alidns.com tls://dot.pub
 [/jzkoo.net/]tls://dns.alidns.com tls://dot.pub
 [/jzkuaiji.com/]tls://dns.alidns.com tls://dot.pub
+[/jzmbti.com/]tls://dns.alidns.com tls://dot.pub
 [/jzmob.com/]tls://dns.alidns.com tls://dot.pub
 [/jzmsmj.com/]tls://dns.alidns.com tls://dot.pub
 [/jzmt.net/]tls://dns.alidns.com tls://dot.pub
@@ -39480,6 +39499,7 @@ https://cloudflare-dns.com/dns-query
 [/locatran.com/]tls://dns.alidns.com tls://dot.pub
 [/locez.com/]tls://dns.alidns.com tls://dot.pub
 [/lockfans.com/]tls://dns.alidns.com tls://dot.pub
+[/lockinchina.com/]tls://dns.alidns.com tls://dot.pub
 [/locklauncher.com/]tls://dns.alidns.com tls://dot.pub
 [/lockscreenimg.com/]tls://dns.alidns.com tls://dot.pub
 [/lockty.com/]tls://dns.alidns.com tls://dot.pub
@@ -40318,6 +40338,7 @@ https://cloudflare-dns.com/dns-query
 [/lyh8888.com/]tls://dns.alidns.com tls://dot.pub
 [/lyhendry.com/]tls://dns.alidns.com tls://dot.pub
 [/lyhero.com/]tls://dns.alidns.com tls://dot.pub
+[/lyhhdz.com/]tls://dns.alidns.com tls://dot.pub
 [/lyhomestayinn.com/]tls://dns.alidns.com tls://dot.pub
 [/lyhuadu.com/]tls://dns.alidns.com tls://dot.pub
 [/lyhx.net/]tls://dns.alidns.com tls://dot.pub
@@ -41440,7 +41461,6 @@ https://cloudflare-dns.com/dns-query
 [/menglangroup.com/]tls://dns.alidns.com tls://dot.pub
 [/menglechong.com/]tls://dns.alidns.com tls://dot.pub
 [/menglegame.com/]tls://dns.alidns.com tls://dot.pub
-[/mengma.com/]tls://dns.alidns.com tls://dot.pub
 [/mengmax.fun/]tls://dns.alidns.com tls://dot.pub
 [/mengmei.org/]tls://dns.alidns.com tls://dot.pub
 [/mengniang.tv/]tls://dns.alidns.com tls://dot.pub
@@ -41816,6 +41836,7 @@ https://cloudflare-dns.com/dns-query
 [/miko007.com/]tls://dns.alidns.com tls://dot.pub
 [/mikoshu.me/]tls://dns.alidns.com tls://dot.pub
 [/miku.ink/]tls://dns.alidns.com tls://dot.pub
+[/miku01.cc/]tls://dns.alidns.com tls://dot.pub
 [/miku4567.com/]tls://dns.alidns.com tls://dot.pub
 [/mikuac.com/]tls://dns.alidns.com tls://dot.pub
 [/mikublog.com/]tls://dns.alidns.com tls://dot.pub
@@ -43351,6 +43372,7 @@ https://cloudflare-dns.com/dns-query
 [/nan1688.com/]tls://dns.alidns.com tls://dot.pub
 [/nanapro.org/]tls://dns.alidns.com tls://dot.pub
 [/nanbeijt.com/]tls://dns.alidns.com tls://dot.pub
+[/nanbeimfycdn.com/]tls://dns.alidns.com tls://dot.pub
 [/nanbeiyou.com/]tls://dns.alidns.com tls://dot.pub
 [/nanbushenghuo.com/]tls://dns.alidns.com tls://dot.pub
 [/nand.network/]tls://dns.alidns.com tls://dot.pub
@@ -43539,7 +43561,6 @@ https://cloudflare-dns.com/dns-query
 [/nbyouth.com/]tls://dns.alidns.com tls://dot.pub
 [/nc8.fun/]tls://dns.alidns.com tls://dot.pub
 [/ncacg.org/]tls://dns.alidns.com tls://dot.pub
-[/ncartfoundation.org/]tls://dns.alidns.com tls://dot.pub
 [/ncboo.com/]tls://dns.alidns.com tls://dot.pub
 [/nccqj.com/]tls://dns.alidns.com tls://dot.pub
 [/ncdxbbs.com/]tls://dns.alidns.com tls://dot.pub
@@ -43664,6 +43685,7 @@ https://cloudflare-dns.com/dns-query
 [/neteasegames.com/]tls://dns.alidns.com tls://dot.pub
 [/netentsec.com/]tls://dns.alidns.com tls://dot.pub
 [/netesee.com/]tls://dns.alidns.com tls://dot.pub
+[/netflixtown.com/]tls://dns.alidns.com tls://dot.pub
 [/netgamecar.com/]tls://dns.alidns.com tls://dot.pub
 [/netherlandvcenter.com/]tls://dns.alidns.com tls://dot.pub
 [/netiler.com/]tls://dns.alidns.com tls://dot.pub
@@ -44979,6 +45001,7 @@ https://cloudflare-dns.com/dns-query
 [/onephper.com/]tls://dns.alidns.com tls://dot.pub
 [/oneplusbbs.com/]tls://dns.alidns.com tls://dot.pub
 [/oneplusmobile.com/]tls://dns.alidns.com tls://dot.pub
+[/onerway.com/]tls://dns.alidns.com tls://dot.pub
 [/onescorpion.com/]tls://dns.alidns.com tls://dot.pub
 [/oneshao.com/]tls://dns.alidns.com tls://dot.pub
 [/onesight.com/]tls://dns.alidns.com tls://dot.pub
@@ -45534,6 +45557,7 @@ https://cloudflare-dns.com/dns-query
 [/palanceli.com/]tls://dns.alidns.com tls://dot.pub
 [/pallasa.com/]tls://dns.alidns.com tls://dot.pub
 [/palm-h.com/]tls://dns.alidns.com tls://dot.pub
+[/palm.tech/]tls://dns.alidns.com tls://dot.pub
 [/palmestore.com/]tls://dns.alidns.com tls://dot.pub
 [/palmexpo.com/]tls://dns.alidns.com tls://dot.pub
 [/palmfungames.com/]tls://dns.alidns.com tls://dot.pub
@@ -46858,6 +46882,7 @@ https://cloudflare-dns.com/dns-query
 [/psychcn.com/]tls://dns.alidns.com tls://dot.pub
 [/psychspace.com/]tls://dns.alidns.com tls://dot.pub
 [/psylife.com/]tls://dns.alidns.com tls://dot.pub
+[/psysoper.com/]tls://dns.alidns.com tls://dot.pub
 [/psyzg.com/]tls://dns.alidns.com tls://dot.pub
 [/psznh.com/]tls://dns.alidns.com tls://dot.pub
 [/pszwatch.com/]tls://dns.alidns.com tls://dot.pub
@@ -50827,6 +50852,7 @@ https://cloudflare-dns.com/dns-query
 [/serholiu.com/]tls://dns.alidns.com tls://dot.pub
 [/seridc.com/]tls://dns.alidns.com tls://dot.pub
 [/servasoft.com/]tls://dns.alidns.com tls://dot.pub
+[/service86.com/]tls://dns.alidns.com tls://dot.pub
 [/servicemesher.com/]tls://dns.alidns.com tls://dot.pub
 [/servicewechat.com/]tls://dns.alidns.com tls://dot.pub
 [/servilabmedical.com/]tls://dns.alidns.com tls://dot.pub
@@ -51536,7 +51562,6 @@ https://cloudflare-dns.com/dns-query
 [/shhgzf.com/]tls://dns.alidns.com tls://dot.pub
 [/shhkcc.com/]tls://dns.alidns.com tls://dot.pub
 [/shhorse.com/]tls://dns.alidns.com tls://dot.pub
-[/shhssts.com/]tls://dns.alidns.com tls://dot.pub
 [/shhuayi.com/]tls://dns.alidns.com tls://dot.pub
 [/shhuihai.com/]tls://dns.alidns.com tls://dot.pub
 [/shhuisd.com/]tls://dns.alidns.com tls://dot.pub
@@ -53082,6 +53107,7 @@ https://cloudflare-dns.com/dns-query
 [/socialfishface.com/]tls://dns.alidns.com tls://dot.pub
 [/socialmarketings.com/]tls://dns.alidns.com tls://dot.pub
 [/socite.com/]tls://dns.alidns.com tls://dot.pub
+[/socket.tw/]tls://dns.alidns.com tls://dot.pub
 [/sockip.com/]tls://dns.alidns.com tls://dot.pub
 [/socolar.com/]tls://dns.alidns.com tls://dot.pub
 [/socomic.com/]tls://dns.alidns.com tls://dot.pub
@@ -53465,6 +53491,7 @@ https://cloudflare-dns.com/dns-query
 [/spbo.com/]tls://dns.alidns.com tls://dot.pub
 [/spbo1.com/]tls://dns.alidns.com tls://dot.pub
 [/spbycdn.biz/]tls://dns.alidns.com tls://dot.pub
+[/spbycdn.com/]tls://dns.alidns.com tls://dot.pub
 [/spbycdn.info/]tls://dns.alidns.com tls://dot.pub
 [/spcapsules.com/]tls://dns.alidns.com tls://dot.pub
 [/spcdntip.com/]tls://dns.alidns.com tls://dot.pub
@@ -54087,6 +54114,7 @@ https://cloudflare-dns.com/dns-query
 [/sunft.com/]tls://dns.alidns.com tls://dot.pub
 [/sungari1995.com/]tls://dns.alidns.com tls://dot.pub
 [/sungesoft.com/]tls://dns.alidns.com tls://dot.pub
+[/sungine.com/]tls://dns.alidns.com tls://dot.pub
 [/sungoal.org/]tls://dns.alidns.com tls://dot.pub
 [/sungoedu.com/]tls://dns.alidns.com tls://dot.pub
 [/sungshu.com/]tls://dns.alidns.com tls://dot.pub
@@ -54677,6 +54705,7 @@ https://cloudflare-dns.com/dns-query
 [/szcua.org/]tls://dns.alidns.com tls://dot.pub
 [/szcw.com/]tls://dns.alidns.com tls://dot.pub
 [/szcwdz.com/]tls://dns.alidns.com tls://dot.pub
+[/szcy-fintech.com/]tls://dns.alidns.com tls://dot.pub
 [/szcy99.com/]tls://dns.alidns.com tls://dot.pub
 [/szczjy.com/]tls://dns.alidns.com tls://dot.pub
 [/szczkjgs.com/]tls://dns.alidns.com tls://dot.pub
@@ -56569,6 +56598,7 @@ https://cloudflare-dns.com/dns-query
 [/tongliaowang.com/]tls://dns.alidns.com tls://dot.pub
 [/tonglu-tour.com/]tls://dns.alidns.com tls://dot.pub
 [/tongniguoji.com/]tls://dns.alidns.com tls://dot.pub
+[/tongren.jp/]tls://dns.alidns.com tls://dot.pub
 [/tongshanbank.com/]tls://dns.alidns.com tls://dot.pub
 [/tongshilu.com/]tls://dns.alidns.com tls://dot.pub
 [/tongshuai.com/]tls://dns.alidns.com tls://dot.pub
@@ -57162,7 +57192,6 @@ https://cloudflare-dns.com/dns-query
 [/ttyuyin.com/]tls://dns.alidns.com tls://dot.pub
 [/ttyyuuoo.com/]tls://dns.alidns.com tls://dot.pub
 [/ttz.com/]tls://dns.alidns.com tls://dot.pub
-[/ttzhongbao.com/]tls://dns.alidns.com tls://dot.pub
 [/ttzw.com/]tls://dns.alidns.com tls://dot.pub
 [/ttzyw.com/]tls://dns.alidns.com tls://dot.pub
 [/tu8.cc/]tls://dns.alidns.com tls://dot.pub
@@ -58481,6 +58510,7 @@ https://cloudflare-dns.com/dns-query
 [/vaecn.com/]tls://dns.alidns.com tls://dot.pub
 [/vaedu.net/]tls://dns.alidns.com tls://dot.pub
 [/vaeliu.com/]tls://dns.alidns.com tls://dot.pub
+[/vaillant99.com/]tls://dns.alidns.com tls://dot.pub
 [/vakku.com/]tls://dns.alidns.com tls://dot.pub
 [/validform.club/]tls://dns.alidns.com tls://dot.pub
 [/valinbl.com/]tls://dns.alidns.com tls://dot.pub
@@ -60005,6 +60035,7 @@ https://cloudflare-dns.com/dns-query
 [/weifengtang.com/]tls://dns.alidns.com tls://dot.pub
 [/weifenpay.com/]tls://dns.alidns.com tls://dot.pub
 [/weifrom.com/]tls://dns.alidns.com tls://dot.pub
+[/weifujd.com/]tls://dns.alidns.com tls://dot.pub
 [/weigongju.org/]tls://dns.alidns.com tls://dot.pub
 [/weiguang.cc/]tls://dns.alidns.com tls://dot.pub
 [/weihai.tv/]tls://dns.alidns.com tls://dot.pub
@@ -61075,6 +61106,7 @@ https://cloudflare-dns.com/dns-query
 [/wkbins.com/]tls://dns.alidns.com tls://dot.pub
 [/wkbrowser.com/]tls://dns.alidns.com tls://dot.pub
 [/wkcmall.com/]tls://dns.alidns.com tls://dot.pub
+[/wkdcj.xyz/]tls://dns.alidns.com tls://dot.pub
 [/wkdeng.com/]tls://dns.alidns.com tls://dot.pub
 [/wkderp.com/]tls://dns.alidns.com tls://dot.pub
 [/wkdty.com/]tls://dns.alidns.com tls://dot.pub
@@ -61393,6 +61425,7 @@ https://cloudflare-dns.com/dns-query
 [/worldbangmai.com/]tls://dns.alidns.com tls://dot.pub
 [/worldbuy.cc/]tls://dns.alidns.com tls://dot.pub
 [/worldcps.com/]tls://dns.alidns.com tls://dot.pub
+[/worldfcdn.com/]tls://dns.alidns.com tls://dot.pub
 [/worldgoodvoices.com/]tls://dns.alidns.com tls://dot.pub
 [/worldh5.com/]tls://dns.alidns.com tls://dot.pub
 [/worldhello.net/]tls://dns.alidns.com tls://dot.pub
@@ -61910,6 +61943,7 @@ https://cloudflare-dns.com/dns-query
 [/wws23.com/]tls://dns.alidns.com tls://dot.pub
 [/wwsgh.com/]tls://dns.alidns.com tls://dot.pub
 [/wwstat.com/]tls://dns.alidns.com tls://dot.pub
+[/www-10524.am/]tls://dns.alidns.com tls://dot.pub
 [/www-123490.com/]tls://dns.alidns.com tls://dot.pub
 [/www-175345.com/]tls://dns.alidns.com tls://dot.pub
 [/www-4620.com/]tls://dns.alidns.com tls://dot.pub
@@ -64224,6 +64258,7 @@ https://cloudflare-dns.com/dns-query
 [/xpkongqipao.com/]tls://dns.alidns.com tls://dot.pub
 [/xplaymobile.com/]tls://dns.alidns.com tls://dot.pub
 [/xpn.cc/]tls://dns.alidns.com tls://dot.pub
+[/xpoy0z.com/]tls://dns.alidns.com tls://dot.pub
 [/xpsheying.com/]tls://dns.alidns.com tls://dot.pub
 [/xpsy.net/]tls://dns.alidns.com tls://dot.pub
 [/xptt.com/]tls://dns.alidns.com tls://dot.pub
@@ -65599,6 +65634,7 @@ https://cloudflare-dns.com/dns-query
 [/yhachina.com/]tls://dns.alidns.com tls://dot.pub
 [/yham.net/]tls://dns.alidns.com tls://dot.pub
 [/yhbimg.com/]tls://dns.alidns.com tls://dot.pub
+[/yhchj.com/]tls://dns.alidns.com tls://dot.pub
 [/yhcjcw.com/]tls://dns.alidns.com tls://dot.pub
 [/yhcko.com/]tls://dns.alidns.com tls://dot.pub
 [/yhcmovie.com/]tls://dns.alidns.com tls://dot.pub
@@ -67508,6 +67544,7 @@ https://cloudflare-dns.com/dns-query
 [/yumimobi.com/]tls://dns.alidns.com tls://dot.pub
 [/yuming.com/]tls://dns.alidns.com tls://dot.pub
 [/yumingguwen.com/]tls://dns.alidns.com tls://dot.pub
+[/yumingyouhui.com/]tls://dns.alidns.com tls://dot.pub
 [/yumixitong.com/]tls://dns.alidns.com tls://dot.pub
 [/yummy.tech/]tls://dns.alidns.com tls://dot.pub
 [/yumstone.com/]tls://dns.alidns.com tls://dot.pub
@@ -67534,6 +67571,7 @@ https://cloudflare-dns.com/dns-query
 [/yunbiaowulian.com/]tls://dns.alidns.com tls://dot.pub
 [/yunbiaozhun.com/]tls://dns.alidns.com tls://dot.pub
 [/yunbiji.com/]tls://dns.alidns.com tls://dot.pub
+[/yunbisai.com/]tls://dns.alidns.com tls://dot.pub
 [/yunbook.vip/]tls://dns.alidns.com tls://dot.pub
 [/yunbuzhan.com/]tls://dns.alidns.com tls://dot.pub
 [/yuncai5.com/]tls://dns.alidns.com tls://dot.pub
