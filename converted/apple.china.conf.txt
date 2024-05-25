@@ -108,6 +108,7 @@
 [/ml.cdn-apple.com/]https://120.53.53.53/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query https://dns.alidns.com/dns-query
 [/music.apple.com/]https://120.53.53.53/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query https://dns.alidns.com/dns-query
 [/ocsp-lb.apple.com.akadns.net/]https://120.53.53.53/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query https://dns.alidns.com/dns-query
+[/ocsp2-lb.apple.com.akadns.net/]https://120.53.53.53/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query https://dns.alidns.com/dns-query
 [/ocsp.apple.com/]https://120.53.53.53/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query https://dns.alidns.com/dns-query
 [/ocsp2.apple.com/]https://120.53.53.53/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query https://dns.alidns.com/dns-query
 [/oscdn.apple.com/]https://120.53.53.53/dns-query https://doh.360.cn/dns-query https://1.12.12.12/dns-query https://dns.alidns.com/dns-query
